@@ -2,6 +2,10 @@
 
 A tool that checks the live WaiverPro app against the provided PDF guidelines.
 
+Frontend: [https://waiverpro-compliance-agent.vercel.app/](https://waiverpro-compliance-agent.vercel.app/)
+
+Backend: [https://waiverpro-compliance-agent-36so.onrender.com](https://waiverpro-compliance-agent-36so.onrender.com)
+
 ---
 
 ## 1. Setup

@@ -1,5 +1,7 @@
 ﻿import { useState } from 'react';
 
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://waiverpro-compliance-agent-36so.onrender.com';
+
 export default function App() {
   const [loading, setLoading] = useState(false);
   const [report, setReport] = useState(null);
@@ -11,7 +13,7 @@ export default function App() {
     setReport(null);
 
     try {
-      const response = await fetch('http://localhost:3000/api/compliance/run', {
+      const response = await fetch(`${API_BASE_URL}/api/compliance/run`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
