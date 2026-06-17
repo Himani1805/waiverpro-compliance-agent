@@ -3819,222 +3819,300 @@
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
     "component_selector": "panel-button:nth-of-type(29)",
-    "actual_text_content": "All0"
+    "actual_text_content": "All507"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(30)",
+    "actual_text_content": "507"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
     "component_selector": "panel-button:nth-of-type(31)",
-    "actual_text_content": "Patient Needs Waiver (PNW) Request"
+    "actual_text_content": "Patient Needs Waiver (PNW) Request376"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
-    "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(32)",
-    "actual_text_content": "Program Flexibility (PF) Request"
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(32)",
+    "actual_text_content": "376"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
     "component_selector": "panel-button:nth-of-type(33)",
-    "actual_text_content": "Workforce Shortage Waiver (WSW) Request"
+    "actual_text_content": "Program Flexibility (PF) Request116"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(34)",
+    "actual_text_content": "116"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(34)",
-    "actual_text_content": "All Applications 0"
+    "component_selector": "panel-button:nth-of-type(35)",
+    "actual_text_content": "Workforce Shortage Waiver (WSW) Request15"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(36)",
-    "actual_text_content": "Draft 0"
+    "component_selector": "panel-button:nth-of-type(37)",
+    "actual_text_content": "All Applications 507"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(38)",
-    "actual_text_content": "Submitted 0"
+    "component_selector": "panel-button:nth-of-type(39)",
+    "actual_text_content": "Draft 193"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(40)",
+    "actual_text_content": "193"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(40)",
+    "component_selector": "panel-button:nth-of-type(41)",
+    "actual_text_content": "Submitted 296"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(42)",
+    "actual_text_content": "296"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(43)",
     "actual_text_content": "Reopen 0"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(42)",
-    "actual_text_content": "In Review 0"
+    "component_selector": "panel-button:nth-of-type(45)",
+    "actual_text_content": "In Review 4"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(44)",
+    "component_selector": "panel-button:nth-of-type(47)",
     "actual_text_content": "Rejected 0"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(46)",
-    "actual_text_content": "Approved 0"
+    "component_selector": "panel-button:nth-of-type(49)",
+    "actual_text_content": "Approved 6"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(48)",
-    "actual_text_content": "Evaluator Review 0"
+    "component_selector": "panel-button:nth-of-type(51)",
+    "actual_text_content": "Evaluator Review 1"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(50)",
-    "actual_text_content": "Manager Review 0"
+    "component_selector": "panel-button:nth-of-type(53)",
+    "actual_text_content": "Manager Review 7"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(52)",
+    "component_selector": "panel-button:nth-of-type(55)",
     "actual_text_content": "Revoked 0"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(54)",
+    "component_selector": "panel-button:nth-of-type(57)",
     "actual_text_content": "Expired 0"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-span:nth-of-type(56)",
+    "component_selector": "panel-span:nth-of-type(59)",
+    "actual_text_content": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(60)",
+    "actual_text_content": "Patient Needs Waiver (PNW) Request"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(61)",
+    "actual_text_content": "Submitted"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(66)",
+    "actual_text_content": "Draft"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(79)",
+    "actual_text_content": "1035 MARKET CLINIC - Patient Needs Waiver"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(84)",
+    "actual_text_content": "39TH AVENUE CLINICS (MAIN CLINIC) - Patient Needs Waiver"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(109)",
     "actual_text_content": "Rows per page"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-h3:nth-of-type(63)",
+    "component_selector": "panel-h3:nth-of-type(116)",
     "actual_text_content": "Applications by Type"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-h3:nth-of-type(64)",
+    "component_selector": "panel-h3:nth-of-type(117)",
     "actual_text_content": "Applications Overview"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-h3:nth-of-type(66)",
+    "component_selector": "panel-h3:nth-of-type(119)",
     "actual_text_content": "CDPH FAQ Assistant"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-h2:nth-of-type(68)",
+    "component_selector": "panel-h2:nth-of-type(121)",
     "actual_text_content": "New Waiver Application"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-p:nth-of-type(69)",
+    "component_selector": "panel-p:nth-of-type(122)",
     "actual_text_content": "Complete the form to submit your waiver request"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(70)",
+    "component_selector": "panel-button:nth-of-type(123)",
     "actual_text_content": "Waiver Type"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(71)",
+    "component_selector": "panel-button:nth-of-type(124)",
     "actual_text_content": "Select Location"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(72)",
+    "component_selector": "panel-button:nth-of-type(125)",
     "actual_text_content": "Fill Application"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-h3:nth-of-type(73)",
+    "component_selector": "panel-h3:nth-of-type(126)",
     "actual_text_content": "Select Waiver Type"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-p:nth-of-type(74)",
+    "component_selector": "panel-p:nth-of-type(127)",
     "actual_text_content": "Choose the type of waiver request that best matches your needs"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-label:nth-of-type(75)",
+    "component_selector": "panel-label:nth-of-type(128)",
     "actual_text_content": "Patient Needs Waiver (PNW) RequestApply when the facility is seeking a waiver of the 2.4 CNA requirement to meet individual patient needs but will provide a minimum of 3.5 direct care service hours. Facilities may only submit one Patient Needs Waiver and/or one Workforce Shortage Waiver application "
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-p:nth-of-type(78)",
+    "component_selector": "panel-p:nth-of-type(131)",
     "actual_text_content": "Apply when the facility is seeking a waiver of the 2.4 CNA requirement to meet individual patient needs but will provide a minimum of 3.5 direct care service hours. Facilities may only submit one Patient Needs Waiver and/or one Workforce Shortage Waiver application in the same year. If submitting bo"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-label:nth-of-type(79)",
+    "component_selector": "panel-label:nth-of-type(132)",
     "actual_text_content": "Program Flexibility (PF) RequestApply when the facility is seeking program flexibility to regulations. The request must include justification for the program flexibility, adequate description of the alternative concept, and documentation supporting that patient care will not be compromised. The faci"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-p:nth-of-type(82)",
+    "component_selector": "panel-p:nth-of-type(134)",
+    "actual_text_content": "Program Flexibility (PF) Request"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-p:nth-of-type(135)",
     "actual_text_content": "Apply when the facility is seeking program flexibility to regulations. The request must include justification for the program flexibility, adequate description of the alternative concept, and documentation supporting that patient care will not be compromised. The facility may request program flexibi"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-label:nth-of-type(83)",
+    "component_selector": "panel-label:nth-of-type(136)",
     "actual_text_content": "Workforce Shortage Waiver (WSW) RequestExpiredApply when the facility is seeking a waiver of the 3.5 direct care service hours requirement and/or the 2.4 CNA hours requirement due to a workforce shortage of available and appropriate health care professionals and direct care givers. Facilities may on"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-span:nth-of-type(86)",
+    "component_selector": "panel-p:nth-of-type(138)",
+    "actual_text_content": "Workforce Shortage Waiver (WSW) Request"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(139)",
     "actual_text_content": "Expired"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-p:nth-of-type(87)",
+    "component_selector": "panel-p:nth-of-type(140)",
     "actual_text_content": "Apply when the facility is seeking a waiver of the 3.5 direct care service hours requirement and/or the 2.4 CNA hours requirement due to a workforce shortage of available and appropriate health care professionals and direct care givers. Facilities may only submit one Patient Needs Waiver and/or one "
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-p:nth-of-type(88)",
+    "component_selector": "panel-p:nth-of-type(141)",
     "actual_text_content": "This waiver is no longer available"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-p:nth-of-type(89)",
+    "component_selector": "panel-p:nth-of-type(142)",
     "actual_text_content": "This waiver was available from Dec 29, 2025 to Apr 30, 2026"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(90)",
+    "component_selector": "panel-button:nth-of-type(143)",
     "actual_text_content": "Next"
   },
   {
     "page_url": "/dashboard/my-applications?newApplicationPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-button:nth-of-type(91)",
+    "component_selector": "panel-button:nth-of-type(144)",
     "actual_text_content": "Close"
   },
   {
