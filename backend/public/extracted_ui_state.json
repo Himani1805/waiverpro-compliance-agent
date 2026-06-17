@@ -1,0 +1,4742 @@
+[
+  {
+    "page_url": "/",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(1)",
+    "actual_text_content": "Getting Started"
+  },
+  {
+    "page_url": "/",
+    "component_type": "header_element",
+    "component_selector": "h1:nth-of-type(2)",
+    "actual_text_content": "Healthcare WaiverManagement"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(3)",
+    "actual_text_content": "Streamline your regulatory waiver process from submission to approval"
+  },
+  {
+    "page_url": "/",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(4)",
+    "actual_text_content": "All Waiver Programs"
+  },
+  {
+    "page_url": "/",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(5)",
+    "actual_text_content": "Patient Needs Waiver (PNW) Request"
+  },
+  {
+    "page_url": "/",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(6)",
+    "actual_text_content": "Program Flexibility (PF) Request"
+  },
+  {
+    "page_url": "/",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(7)",
+    "actual_text_content": "Workforce Shortage Waiver (WSW) Request"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(9)",
+    "actual_text_content": "Apply when the facility is seeking a waiver of the 2.4 CNA requirement to meet individual patient needs but will provide a minimum of 3.5 direct care service hours. Facilities may only submit one Patient Needs Waiver and/or one Workforce Shortage Waiver application in the same year. If submitting bo"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(10)",
+    "actual_text_content": "15–20 business daysProcessing Time"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(11)",
+    "actual_text_content": "Processing Time"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(12)",
+    "actual_text_content": "6–12 monthsWaiver Period"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(13)",
+    "actual_text_content": "Waiver Period"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(14)",
+    "actual_text_content": "Applies to individualized patient care plan modifications based on clinical needs"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(16)",
+    "actual_text_content": "Documented patient or family request for accommodation required"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(18)",
+    "actual_text_content": "Clinical assessment supporting the modification must be on file"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(20)",
+    "actual_text_content": "Interdisciplinary team agreement and approval is required"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(23)",
+    "actual_text_content": "Apply when the facility is seeking program flexibility to regulations. The request must include justification for the program flexibility, adequate description of the alternative concept, and documentation supporting that patient care will not be compromised. The facility may request program flexibi"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(24)",
+    "actual_text_content": "Within 60 daysProcessing Time"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(28)",
+    "actual_text_content": "Submit a detailed justification demonstrating how the alternative maintains compliance and protects residents"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(30)",
+    "actual_text_content": "All requests must be submitted online through WaiverPRO"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(32)",
+    "actual_text_content": "CDPH will respond within 60 days after all required documentation is received"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(34)",
+    "actual_text_content": "Approved flexibilities include an expiration date and specific terms; may be revoked if conditions are not met"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(37)",
+    "actual_text_content": "Expired"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(38)",
+    "actual_text_content": "This waiver was available from Dec 29, 2025 to Apr 30, 2026"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(39)",
+    "actual_text_content": "Apply when the facility is seeking a waiver of the 3.5 direct care service hours requirement and/or the 2.4 CNA hours requirement due to a workforce shortage of available and appropriate health care professionals and direct care givers. Facilities may only submit one Patient Needs Waiver and/or one "
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(44)",
+    "actual_text_content": "Facilities may not staff below 3.2 direct care hours per patient day, even with an approved waiver"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(46)",
+    "actual_text_content": "Only licensed freestanding SNFs (excluding GACH distinct parts, state-owned hospitals, and developmental centers) may apply"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(48)",
+    "actual_text_content": "Application Window: January 1 – April 1 annually; applications will not be accepted outside this timeframe"
+  },
+  {
+    "page_url": "/",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(50)",
+    "actual_text_content": "One Workforce Shortage Waiver and/or one Patient Needs Waiver per year; only one may be approved"
+  },
+  {
+    "page_url": "/",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(52)",
+    "actual_text_content": "Copyright © 2025 WaiverPro"
+  },
+  {
+    "page_url": "/",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(53)",
+    "actual_text_content": "Privacy Policy"
+  },
+  {
+    "page_url": "/",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(54)",
+    "actual_text_content": "Terms of Service"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(1)",
+    "actual_text_content": "Back to Home"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h1:nth-of-type(2)",
+    "actual_text_content": "Privacy Policy"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(3)",
+    "actual_text_content": "Last updated: December 2025"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(4)",
+    "actual_text_content": "1. Introduction"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(5)",
+    "actual_text_content": "Welcome to WaiverPro (\"we,\" \"our,\" or \"us\"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our waiver and program flexibility application mana"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(6)",
+    "actual_text_content": "By accessing or using WaiverPro, you agree to the collection and use of information in accordance with this policy. If you do not agree with our policies and practices, please do not use our service."
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(7)",
+    "actual_text_content": "2. Information We Collect"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(8)",
+    "actual_text_content": "2.1 Personal Information"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(9)",
+    "actual_text_content": "We collect information that you provide directly to us, including:"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(10)",
+    "actual_text_content": "Name, email address, phone number, and contact information"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(11)",
+    "actual_text_content": "Facility information, including facility name, address, and type"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(12)",
+    "actual_text_content": "Waiver and program flexibility application data"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(13)",
+    "actual_text_content": "Documentation and supporting materials uploaded to the platform"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(14)",
+    "actual_text_content": "Account credentials and authentication information"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(15)",
+    "actual_text_content": "Communication preferences and correspondence"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(16)",
+    "actual_text_content": "2.2 Automatically Collected Information"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(17)",
+    "actual_text_content": "When you use WaiverPro, we automatically collect certain information, including:"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(18)",
+    "actual_text_content": "Log data: IP address, browser type, operating system, pages visited, and time spent on pages"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(19)",
+    "actual_text_content": "Device information: Device identifiers, device type, and mobile network information"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(20)",
+    "actual_text_content": "Usage data: How you interact with the platform, features used, and performance metrics"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(21)",
+    "actual_text_content": "3. How We Use Your Information"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(22)",
+    "actual_text_content": "We use the information we collect for the following purposes:"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(23)",
+    "actual_text_content": "To provide, maintain, and improve our waiver management services"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(24)",
+    "actual_text_content": "To process and manage waiver and program flexibility applications"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(25)",
+    "actual_text_content": "To facilitate communication between facilities and regulatory authorities"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(26)",
+    "actual_text_content": "To send you administrative information, updates, and notifications related to your applications"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(27)",
+    "actual_text_content": "To respond to your inquiries, comments, and support requests"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(28)",
+    "actual_text_content": "To monitor and analyze usage patterns and trends to improve our platform"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(29)",
+    "actual_text_content": "To detect, prevent, and address technical issues, security threats, or fraudulent activity"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(30)",
+    "actual_text_content": "To comply with legal obligations and regulatory requirements"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(31)",
+    "actual_text_content": "4. Information Sharing and Disclosure"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(32)",
+    "actual_text_content": "We may share your information in the following circumstances:"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(33)",
+    "actual_text_content": "With Regulatory Authorities: We may share application data and documentation with relevant regulatory bodies as part of the waiver review and approval process."
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(34)",
+    "actual_text_content": "With Service Providers: We may share information with third-party service providers who perform services on our behalf, such as hosting, data storage, and customer support."
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(35)",
+    "actual_text_content": "For Legal Compliance: We may disclose information if required by law, court order, or government regulation."
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(36)",
+    "actual_text_content": "To Protect Rights: We may share information to protect our rights, privacy, safety, or property, or that of our users or others."
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(37)",
+    "actual_text_content": "With Your Consent: We may share information with your explicit consent or at your direction."
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(38)",
+    "actual_text_content": "We do not sell, rent, or trade your personal information to third parties for their marketing purposes."
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(39)",
+    "actual_text_content": "5. Data Security"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(40)",
+    "actual_text_content": "We implement appropriate technical and organizational security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. These measures include:"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(41)",
+    "actual_text_content": "Encryption of data in transit and at rest"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(42)",
+    "actual_text_content": "Regular security assessments and vulnerability testing"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(43)",
+    "actual_text_content": "Access controls and authentication mechanisms"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(44)",
+    "actual_text_content": "Secure data centers with physical and environmental safeguards"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(45)",
+    "actual_text_content": "Employee training on data protection and privacy practices"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(46)",
+    "actual_text_content": "However, no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee absolute security."
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(47)",
+    "actual_text_content": "6. Your Rights and Choices"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(48)",
+    "actual_text_content": "You have certain rights regarding your personal information, including:"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(49)",
+    "actual_text_content": "Access: You can request access to the personal information we hold about you"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(50)",
+    "actual_text_content": "Correction: You can request correction of inaccurate or incomplete information"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(51)",
+    "actual_text_content": "Deletion: You can request deletion of your personal information, subject to legal and contractual obligations"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(52)",
+    "actual_text_content": "Data Portability: You can request a copy of your data in a portable format"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(53)",
+    "actual_text_content": "Opt-Out: You can opt out of certain communications by following the unsubscribe instructions in our emails"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(54)",
+    "actual_text_content": "To exercise these rights, please contact us using the information provided in the \"Contact Us\" section below."
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(55)",
+    "actual_text_content": "7. Data Retention"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(56)",
+    "actual_text_content": "We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. Application data and documentation may be retained in accordance with regulatory requirements and for historical rec"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(57)",
+    "actual_text_content": "8. Children's Privacy"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(58)",
+    "actual_text_content": "WaiverPro is not intended for individuals under the age of 18. We do not knowingly collect personal information from children. If we become aware that we have collected personal information from a child without parental consent, we will take steps to delete such information."
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(59)",
+    "actual_text_content": "9. Changes to This Privacy Policy"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(60)",
+    "actual_text_content": "We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the new Privacy Policy on this page and updating the \"Last updated\" date. We encourage you to review t"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(61)",
+    "actual_text_content": "10. Contact Us"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(62)",
+    "actual_text_content": "If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(63)",
+    "actual_text_content": "WaiverPro"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(64)",
+    "actual_text_content": "Email: privacy@waiverpro.com"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(65)",
+    "actual_text_content": "Phone: +1 (555) 123-4567"
+  },
+  {
+    "page_url": "/privacy",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(66)",
+    "actual_text_content": "Address: 123 Healthcare Plaza, Suite 400, New York, NY 10001"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(1)",
+    "actual_text_content": "Back to Home"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h1:nth-of-type(2)",
+    "actual_text_content": "Terms of Service"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(3)",
+    "actual_text_content": "Last updated: December 2025"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(4)",
+    "actual_text_content": "1. Acceptance of Terms"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(5)",
+    "actual_text_content": "By accessing or using WaiverPro (\"the Service\"), you agree to be bound by these Terms of Service (\"Terms\"). If you disagree with any part of these terms, you may not access the Service."
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(6)",
+    "actual_text_content": "These Terms constitute a legally binding agreement between you and WaiverPro. If you are using the Service on behalf of an organization, you represent and warrant that you have the authority to bind that organization to these Terms."
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(7)",
+    "actual_text_content": "2. Description of Service"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(8)",
+    "actual_text_content": "WaiverPro is a web-based platform designed to facilitate the management, submission, and tracking of healthcare waiver applications and program flexibility requests. The Service provides tools for facilities to:"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(9)",
+    "actual_text_content": "Create and submit waiver and program flexibility applications"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(10)",
+    "actual_text_content": "Track application status and review progress"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(11)",
+    "actual_text_content": "Manage facility information and documentation"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(12)",
+    "actual_text_content": "Communicate with regulatory authorities"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(13)",
+    "actual_text_content": "Access support resources and documentation"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(14)",
+    "actual_text_content": "3. User Accounts and Registration"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(15)",
+    "actual_text_content": "3.1 Account Creation"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(16)",
+    "actual_text_content": "To use certain features of the Service, you must register for an account. You agree to:"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(17)",
+    "actual_text_content": "Provide accurate, current, and complete information during registration"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(18)",
+    "actual_text_content": "Maintain and promptly update your account information"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(19)",
+    "actual_text_content": "Maintain the security of your account credentials"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(20)",
+    "actual_text_content": "Accept responsibility for all activities that occur under your account"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(21)",
+    "actual_text_content": "Notify us immediately of any unauthorized use of your account"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(22)",
+    "actual_text_content": "3.2 Account Eligibility"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(23)",
+    "actual_text_content": "You must be at least 18 years old and have the legal capacity to enter into binding agreements to use the Service. By creating an account, you represent and warrant that you meet these eligibility requirements."
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(24)",
+    "actual_text_content": "4. User Responsibilities and Conduct"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(25)",
+    "actual_text_content": "4.1 Acceptable Use"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(26)",
+    "actual_text_content": "You agree to use the Service only for lawful purposes and in accordance with these Terms. You agree not to:"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(27)",
+    "actual_text_content": "Violate any applicable federal, state, local, or international law or regulation"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(28)",
+    "actual_text_content": "Transmit any malicious code, viruses, or harmful materials"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(29)",
+    "actual_text_content": "Attempt to gain unauthorized access to the Service or related systems"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(30)",
+    "actual_text_content": "Interfere with or disrupt the Service or servers connected to the Service"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(31)",
+    "actual_text_content": "Use automated systems or bots to access the Service without authorization"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(32)",
+    "actual_text_content": "Impersonate any person or entity or misrepresent your affiliation"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(33)",
+    "actual_text_content": "Submit false, fraudulent, or misleading information in applications"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(34)",
+    "actual_text_content": "4.2 Accurate Information"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(35)",
+    "actual_text_content": "You are responsible for ensuring that all information submitted through the Service, including application data and documentation, is accurate, complete, and current. Submission of false or misleading information may result in application rejection, account termination, and legal consequences."
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(36)",
+    "actual_text_content": "5. Intellectual Property Rights"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(37)",
+    "actual_text_content": "5.1 Service Ownership"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(38)",
+    "actual_text_content": "The Service and its original content, features, and functionality are owned by WaiverPro and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws."
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(39)",
+    "actual_text_content": "5.2 User Content"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(40)",
+    "actual_text_content": "You retain ownership of any content, data, or materials you submit through the Service (\"User Content\"). By submitting User Content, you grant WaiverPro a non-exclusive, worldwide, royalty-free license to use, store, process, and display your User Content solely for the purpose of providing the Serv"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(41)",
+    "actual_text_content": "Transmitting User Content to regulatory authorities as part of the application process"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(42)",
+    "actual_text_content": "Displaying User Content to you and authorized users associated with your account"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(43)",
+    "actual_text_content": "Storing and backing up User Content"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(44)",
+    "actual_text_content": "6. Application Processing"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(45)",
+    "actual_text_content": "WaiverPro provides a platform for submitting and managing waiver applications. Please note:"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(46)",
+    "actual_text_content": "We facilitate the submission process but do not make decisions on application approval or denial"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(47)",
+    "actual_text_content": "Application review, evaluation, and approval are conducted by relevant regulatory authorities"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(48)",
+    "actual_text_content": "Processing times and outcomes are determined solely by regulatory bodies"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(49)",
+    "actual_text_content": "We are not responsible for delays, rejections, or decisions made by regulatory authorities"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(50)",
+    "actual_text_content": "You remain responsible for ensuring applications meet all regulatory requirements"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(51)",
+    "actual_text_content": "7. Fees and Payment"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(52)",
+    "actual_text_content": "Some features of the Service may be subject to fees. If applicable:"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(53)",
+    "actual_text_content": "Fees will be clearly disclosed before you incur any charges"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(54)",
+    "actual_text_content": "You agree to pay all fees associated with your use of paid features"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(55)",
+    "actual_text_content": "Fees are non-refundable unless otherwise stated or required by law"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(56)",
+    "actual_text_content": "We reserve the right to change fees with reasonable notice"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(57)",
+    "actual_text_content": "Failure to pay fees may result in suspension or termination of your access to paid features"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(58)",
+    "actual_text_content": "8. Service Availability and Modifications"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(59)",
+    "actual_text_content": "We strive to maintain high availability of the Service but do not guarantee uninterrupted or error-free operation. The Service may be unavailable due to:"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(60)",
+    "actual_text_content": "Scheduled maintenance or updates"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(61)",
+    "actual_text_content": "Technical failures or system errors"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(62)",
+    "actual_text_content": "Circumstances beyond our reasonable control"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(63)",
+    "actual_text_content": "We reserve the right to modify, suspend, or discontinue any aspect of the Service at any time, with or without notice. We are not liable for any losses or damages resulting from such modifications, suspensions, or discontinuations."
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(64)",
+    "actual_text_content": "9. Disclaimer of Warranties"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(65)",
+    "actual_text_content": "THE SERVICE IS PROVIDED \"AS IS\" AND \"AS AVAILABLE\" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE BY LAW, WAIVERPRO DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(66)",
+    "actual_text_content": "Warranties of merchantability and fitness for a particular purpose"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(67)",
+    "actual_text_content": "Warranties that the Service will be uninterrupted, secure, or error-free"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(68)",
+    "actual_text_content": "Warranties regarding the accuracy, reliability, or completeness of Service content"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(69)",
+    "actual_text_content": "Warranties that any defects will be corrected"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(70)",
+    "actual_text_content": "10. Limitation of Liability"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(71)",
+    "actual_text_content": "TO THE MAXIMUM EXTENT PERMITTED BY LAW, WAIVERPRO SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO:"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(72)",
+    "actual_text_content": "Loss of profits, revenue, data, or use"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(73)",
+    "actual_text_content": "Business interruption or loss of business opportunities"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(74)",
+    "actual_text_content": "Costs of substitute services"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(75)",
+    "actual_text_content": "Damages arising from application rejections or regulatory decisions"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(76)",
+    "actual_text_content": "Our total liability for any claims arising from or related to the Service shall not exceed the amount you paid to us in the twelve (12) months preceding the claim."
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(77)",
+    "actual_text_content": "11. Indemnification"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(78)",
+    "actual_text_content": "You agree to indemnify, defend, and hold harmless WaiverPro, its officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, costs, or expenses (including reasonable attorneys' fees) arising from your use of the Service, violation of these Terms, or infringe"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(79)",
+    "actual_text_content": "12. Termination"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(80)",
+    "actual_text_content": "We may terminate or suspend your account and access to the Service immediately, without prior notice, for any reason, including:"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(81)",
+    "actual_text_content": "Breach of these Terms"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(82)",
+    "actual_text_content": "Fraudulent or illegal activity"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(83)",
+    "actual_text_content": "Submission of false or misleading information"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "navigation_item",
+    "component_selector": "li:nth-of-type(84)",
+    "actual_text_content": "Extended periods of account inactivity"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(85)",
+    "actual_text_content": "Upon termination, your right to use the Service will cease immediately. We may delete your account data in accordance with our data retention policies, subject to legal and regulatory requirements."
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(86)",
+    "actual_text_content": "13. Governing Law and Dispute Resolution"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(87)",
+    "actual_text_content": "These Terms shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law provisions."
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(88)",
+    "actual_text_content": "Any disputes arising from or related to these Terms or the Service shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association, except where prohibited by law."
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(89)",
+    "actual_text_content": "14. Changes to Terms"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(90)",
+    "actual_text_content": "We reserve the right to modify these Terms at any time. Material changes will be notified by posting the updated Terms on this page and updating the \"Last updated\" date. Your continued use of the Service after such modifications constitutes acceptance of the updated Terms. If you do not agree to the"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(91)",
+    "actual_text_content": "15. Contact Information"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(92)",
+    "actual_text_content": "If you have any questions about these Terms of Service, please contact us:"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(93)",
+    "actual_text_content": "WaiverPro"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(94)",
+    "actual_text_content": "Email: legal@waiverpro.com"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(95)",
+    "actual_text_content": "Phone: +1 (555) 123-4567"
+  },
+  {
+    "page_url": "/terms",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(96)",
+    "actual_text_content": "Address: 123 Healthcare Plaza, Suite 400, New York, NY 10001"
+  },
+  {
+    "page_url": "/login",
+    "component_type": "header_element",
+    "component_selector": "h1:nth-of-type(1)",
+    "actual_text_content": "Login to your account"
+  },
+  {
+    "page_url": "/login",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(2)",
+    "actual_text_content": "Enter your email below to login to your account."
+  },
+  {
+    "page_url": "/login",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(3)",
+    "actual_text_content": "Email"
+  },
+  {
+    "page_url": "/login",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(4)",
+    "actual_text_content": "Password"
+  },
+  {
+    "page_url": "/login",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(5)",
+    "actual_text_content": "Forgot your password?"
+  },
+  {
+    "page_url": "/login",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(6)",
+    "actual_text_content": "Login"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(1)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "text_block",
+    "component_selector": "nav:nth-of-type(2)",
+    "actual_text_content": "My ApplicationsFacilitiesAction ItemsUser ManagementAnnouncementsSettingsSupportFAQsTicketsContactTake a Tour"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(3)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(9)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(12)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(15)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(18)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(21)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(24)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(27)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(30)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(38)",
+    "actual_text_content": "All0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(40)",
+    "actual_text_content": "Patient Needs Waiver (PNW) Request"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(41)",
+    "actual_text_content": "Program Flexibility (PF) Request"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(42)",
+    "actual_text_content": "Workforce Shortage Waiver (WSW) Request"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(43)",
+    "actual_text_content": "All Applications 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(45)",
+    "actual_text_content": "Draft 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(47)",
+    "actual_text_content": "Submitted 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(49)",
+    "actual_text_content": "Reopen 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(51)",
+    "actual_text_content": "In Review 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(53)",
+    "actual_text_content": "Rejected 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(55)",
+    "actual_text_content": "Approved 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(57)",
+    "actual_text_content": "Evaluator Review 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(59)",
+    "actual_text_content": "Manager Review 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(61)",
+    "actual_text_content": "Revoked 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(63)",
+    "actual_text_content": "Expired 0"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(65)",
+    "actual_text_content": "Waiver ID"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(66)",
+    "actual_text_content": "Name"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(67)",
+    "actual_text_content": "Facility"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(68)",
+    "actual_text_content": "Type"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(69)",
+    "actual_text_content": "Status"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(70)",
+    "actual_text_content": "Created on"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(131)",
+    "actual_text_content": "Rows per page"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(138)",
+    "actual_text_content": "Applications by Type"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(139)",
+    "actual_text_content": "Applications Overview"
+  },
+  {
+    "page_url": "/dashboard",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(141)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(1)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "text_block",
+    "component_selector": "nav:nth-of-type(2)",
+    "actual_text_content": "My ApplicationsFacilitiesAction ItemsUser ManagementAnnouncementsSettingsSupportFAQsTicketsContactTake a Tour"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(3)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(9)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(12)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(15)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(18)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(21)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(24)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(27)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(30)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(38)",
+    "actual_text_content": "All507"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(39)",
+    "actual_text_content": "507"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(40)",
+    "actual_text_content": "Patient Needs Waiver (PNW) Request376"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(41)",
+    "actual_text_content": "376"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(42)",
+    "actual_text_content": "Program Flexibility (PF) Request116"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(43)",
+    "actual_text_content": "116"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(44)",
+    "actual_text_content": "Workforce Shortage Waiver (WSW) Request15"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(46)",
+    "actual_text_content": "All Applications 507"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(48)",
+    "actual_text_content": "Draft 193"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(49)",
+    "actual_text_content": "193"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(50)",
+    "actual_text_content": "Submitted 296"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(51)",
+    "actual_text_content": "296"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(52)",
+    "actual_text_content": "Reopen 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(54)",
+    "actual_text_content": "In Review 4"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(56)",
+    "actual_text_content": "Rejected 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(58)",
+    "actual_text_content": "Approved 6"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(60)",
+    "actual_text_content": "Evaluator Review 1"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(62)",
+    "actual_text_content": "Manager Review 7"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(64)",
+    "actual_text_content": "Revoked 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(66)",
+    "actual_text_content": "Expired 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(68)",
+    "actual_text_content": "Waiver ID"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(69)",
+    "actual_text_content": "Name"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(70)",
+    "actual_text_content": "Facility"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(71)",
+    "actual_text_content": "Type"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(72)",
+    "actual_text_content": "Status"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(73)",
+    "actual_text_content": "Created on"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(74)",
+    "actual_text_content": "PNW-01380-Q2H7C9"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(75)",
+    "actual_text_content": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(77)",
+    "actual_text_content": "1 & 1 HOME HEALTH, INC."
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(78)",
+    "actual_text_content": "Patient Needs Waiver (PNW) Request"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(80)",
+    "actual_text_content": "Submitted"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(84)",
+    "actual_text_content": "Jun 16, 2026"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(85)",
+    "actual_text_content": "PNW-01379-C5M7J8"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(91)",
+    "actual_text_content": "Draft"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(96)",
+    "actual_text_content": "PNW-01378-M1Z4W4"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(107)",
+    "actual_text_content": "PNW-01377-R3B6D3"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(118)",
+    "actual_text_content": "PNW-01376-L0G5H8"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(119)",
+    "actual_text_content": "1035 MARKET CLINIC - Patient Needs Waiver"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(121)",
+    "actual_text_content": "1035 MARKET CLINIC"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(129)",
+    "actual_text_content": "PNW-01375-T1H1Q9"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(130)",
+    "actual_text_content": "39TH AVENUE CLINICS (MAIN CLINIC) - Patient Needs Waiver"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(132)",
+    "actual_text_content": "39TH AVENUE CLINICS (MAIN CLINIC)"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(140)",
+    "actual_text_content": "PNW-01374-C6S6J0"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(151)",
+    "actual_text_content": "PNW-01373-F0C4D9"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(162)",
+    "actual_text_content": "PNW-01372-V7Y1Y4"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(173)",
+    "actual_text_content": "PNW-01371-K0H8X4"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(184)",
+    "actual_text_content": "Rows per page"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(191)",
+    "actual_text_content": "Applications by Type"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(192)",
+    "actual_text_content": "Applications Overview"
+  },
+  {
+    "page_url": "/dashboard/my-applications",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(194)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(1)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "text_block",
+    "component_selector": "nav:nth-of-type(2)",
+    "actual_text_content": "My ApplicationsFacilitiesAction ItemsUser ManagementAnnouncementsSettingsSupportFAQsTicketsContactTake a Tour"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(3)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(9)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(12)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(15)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(18)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(21)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(24)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(27)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(30)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(38)",
+    "actual_text_content": "All Facilities 0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(40)",
+    "actual_text_content": "Due Soon 0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(42)",
+    "actual_text_content": "Upcoming 0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(44)",
+    "actual_text_content": "Scheduled 0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(46)",
+    "actual_text_content": "Overdue 0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(48)",
+    "actual_text_content": "No Status 0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(50)",
+    "actual_text_content": "Role"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(52)",
+    "actual_text_content": "Type"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(54)",
+    "actual_text_content": "Name"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(56)",
+    "actual_text_content": "License Number"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(57)",
+    "actual_text_content": "License Exp Date"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(58)",
+    "actual_text_content": "Status"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(59)",
+    "actual_text_content": "CALCARE HOME HEALTH INC520 E FOOTHILL BLVD, SUITE D, POMONA 91767.0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(60)",
+    "actual_text_content": "Home Health"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(61)",
+    "actual_text_content": "980001578"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(62)",
+    "actual_text_content": "Jun 1, 2026"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(63)",
+    "actual_text_content": "Overdue"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(65)",
+    "actual_text_content": "CONSTANT CARE HOME HEALTH AGENCY, INC.1243 W GLENOAKS BLVD, SUITE A, GLENDALE 91201.0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(67)",
+    "actual_text_content": "980001580"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(69)",
+    "actual_text_content": "No Status"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(71)",
+    "actual_text_content": "SKIRBALL HOSPICE6345 BALBOA BLVD, SUITE 315, ENCINO 91316.0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(72)",
+    "actual_text_content": "HOSPICE"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(73)",
+    "actual_text_content": "980001583"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(77)",
+    "actual_text_content": "GENTLE CARE, INC.13101 W WASHINGTON BLVD, SUITE 142, LOS ANGELES 90066.0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(79)",
+    "actual_text_content": "550000174"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(83)",
+    "actual_text_content": "GRACE HOSPICE, INC.1711 W TEMPLE ST, SUITE 3614, LOS ANGELES 90026.0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(85)",
+    "actual_text_content": "980001586"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(89)",
+    "actual_text_content": "ACKNOWLEDGE HOME HEALTH, INC.13624 HAWTHORNE BLVD, SUITE 210, HAWTHORNE 90250.0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(91)",
+    "actual_text_content": "980001587"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(95)",
+    "actual_text_content": "STAR CARE HOME HEALTH, INC.10660 WHITE OAKS AVE, SUITE 218, GRANADA HILLS 91344.0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(97)",
+    "actual_text_content": "980001589"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(101)",
+    "actual_text_content": "ASSURANCE HOSPICE, INC.444 E HUNTINGTON DR, SUITE 103, ARCADIA 91006.0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(103)",
+    "actual_text_content": "980001596"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(107)",
+    "actual_text_content": "SUNSHINE HOME HEALTH SERVICES, INC.4201 LONG BEACH BLVD, SUITE 412B, LONG BEACH 90807.0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(109)",
+    "actual_text_content": "980001597"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(113)",
+    "actual_text_content": "IDEAL CARE HOME HEALTH, INC.21021 DEVONSHIRE ST, SUITE 204, CHATSWORTH 91311.0"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(115)",
+    "actual_text_content": "980001599"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(119)",
+    "actual_text_content": "Rows per page"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(122)",
+    "actual_text_content": "Page 1 of 500"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(127)",
+    "actual_text_content": "Facilities Status Overview"
+  },
+  {
+    "page_url": "/dashboard/facilities",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(129)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(1)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "text_block",
+    "component_selector": "nav:nth-of-type(2)",
+    "actual_text_content": "My ApplicationsFacilitiesAction ItemsUser ManagementAnnouncementsSettingsSupportFAQsTicketsContactTake a Tour"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(3)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(9)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(12)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(15)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(18)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(21)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(24)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(27)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(30)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(38)",
+    "actual_text_content": "Status"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(39)",
+    "actual_text_content": "Priority"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(42)",
+    "actual_text_content": "Name"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(45)",
+    "actual_text_content": "Due Date"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(47)",
+    "actual_text_content": "TASK-90586"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(48)",
+    "actual_text_content": "test 1"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(50)",
+    "actual_text_content": "Done"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(52)",
+    "actual_text_content": "High"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(54)",
+    "actual_text_content": "119d overdue"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(56)",
+    "actual_text_content": "TASK-62923"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(57)",
+    "actual_text_content": "Upload Documents"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(63)",
+    "actual_text_content": "104d overdue"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(65)",
+    "actual_text_content": "TASK-32250"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(66)",
+    "actual_text_content": "Action item test"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(68)",
+    "actual_text_content": "In Process"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(72)",
+    "actual_text_content": "110d overdue"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(74)",
+    "actual_text_content": "TASK-92587"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(75)",
+    "actual_text_content": "Test Record - DailyStandup"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(81)",
+    "actual_text_content": "109d overdue"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(83)",
+    "actual_text_content": "TASK-56375"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(84)",
+    "actual_text_content": "Test Record - DailyStandup March 1st"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(90)",
+    "actual_text_content": "108d overdue"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(92)",
+    "actual_text_content": "TASK-61060"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(97)",
+    "actual_text_content": "Low"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(99)",
+    "actual_text_content": "107d overdue"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(101)",
+    "actual_text_content": "TASK-72133"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(102)",
+    "actual_text_content": "action item 1"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(108)",
+    "actual_text_content": "96d overdue"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(110)",
+    "actual_text_content": "TASK-36069"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(111)",
+    "actual_text_content": "action item 2"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(117)",
+    "actual_text_content": "95d overdue"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(119)",
+    "actual_text_content": "TASK-24204"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(120)",
+    "actual_text_content": "Test Record"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(128)",
+    "actual_text_content": "TASK-39067"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(129)",
+    "actual_text_content": "Upload notes"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(133)",
+    "actual_text_content": "Medium"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(136)",
+    "actual_text_content": "Rows per page"
+  },
+  {
+    "page_url": "/dashboard/action-items",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(148)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(1)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "text_block",
+    "component_selector": "nav:nth-of-type(2)",
+    "actual_text_content": "My ApplicationsFacilitiesAction ItemsUser ManagementAnnouncementsSettingsSupportFAQsTicketsContactTake a Tour"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(3)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(9)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(12)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(15)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(18)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(21)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(24)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(27)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(30)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(38)",
+    "actual_text_content": "Member (4)"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(39)",
+    "actual_text_content": "Pending Invites18"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(42)",
+    "actual_text_content": "Invite User"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(43)",
+    "actual_text_content": "Name"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(44)",
+    "actual_text_content": "Email"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(45)",
+    "actual_text_content": "Associated Facilities"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(46)",
+    "actual_text_content": "Last Updated"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "th:nth-of-type(47)",
+    "actual_text_content": "Actions"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(48)",
+    "actual_text_content": "Siva Siva"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(49)",
+    "actual_text_content": "siddakasivareddy@gmail.com"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(51)",
+    "actual_text_content": "2 months ago"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(55)",
+    "actual_text_content": "adam smiths"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(56)",
+    "actual_text_content": "adam.smith@gmail.com"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(58)",
+    "actual_text_content": "4 months ago"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(62)",
+    "actual_text_content": "Siva reddy"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(63)",
+    "actual_text_content": "sivareddy103@gmail.com"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(69)",
+    "actual_text_content": "Partner Admin"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "table_cell",
+    "component_selector": "td:nth-of-type(70)",
+    "actual_text_content": "admin@firstupconsultants.com"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(76)",
+    "actual_text_content": "Rows per page"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(79)",
+    "actual_text_content": "Page 1 of 1"
+  },
+  {
+    "page_url": "/dashboard/user-management",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(85)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(1)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "text_block",
+    "component_selector": "nav:nth-of-type(2)",
+    "actual_text_content": "My ApplicationsFacilitiesAction ItemsUser ManagementAnnouncementsSettingsSupportFAQsTicketsContactTake a Tour"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(3)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(9)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(12)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(15)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(18)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(21)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(24)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(27)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(30)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(33)",
+    "actual_text_content": "Stay up to date with important system and program updates."
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(39)",
+    "actual_text_content": "Introducing Smarter AnalyticsExpiredMedium20.01.2026"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(41)",
+    "actual_text_content": "Introducing Smarter Analytics"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(42)",
+    "actual_text_content": "Expired"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(43)",
+    "actual_text_content": "Medium"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(44)",
+    "actual_text_content": "We’re Live! Welcome to Our New WebsiteExpiredLow20.01.2026"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(46)",
+    "actual_text_content": "We’re Live! Welcome to Our New Website"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(48)",
+    "actual_text_content": "Low"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(49)",
+    "actual_text_content": "Scheduled MaintainanceExpiredHigh14.01.2026"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(51)",
+    "actual_text_content": "Scheduled Maintainance"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(53)",
+    "actual_text_content": "High"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(54)",
+    "actual_text_content": "New Application is addedExpiredMedium14.01.2026"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(56)",
+    "actual_text_content": "New Application is added"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(59)",
+    "actual_text_content": "Scheduled Maintenance in ProgressExpiredHigh20.01.2026"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h2:nth-of-type(61)",
+    "actual_text_content": "Scheduled Maintenance in Progress"
+  },
+  {
+    "page_url": "/dashboard/announcements",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(65)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(1)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "text_block",
+    "component_selector": "nav:nth-of-type(2)",
+    "actual_text_content": "My ApplicationsFacilitiesAction ItemsUser ManagementAnnouncementsSettingsSupportFAQsTicketsContactTake a Tour"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(3)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(9)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(12)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(15)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(18)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(21)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(24)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(27)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(30)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(33)",
+    "actual_text_content": "Frequently asked questions about WaiverPro"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(39)",
+    "actual_text_content": "How do I submit a new waiver application?"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(41)",
+    "actual_text_content": "What is the typical review time for waiver applications?"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(43)",
+    "actual_text_content": "How can I track the status of my application?"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(45)",
+    "actual_text_content": "What types of waivers can I apply for?"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(47)",
+    "actual_text_content": "Can I edit an application after submission?"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(49)",
+    "actual_text_content": "How do I add or manage facilities?"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(51)",
+    "actual_text_content": "What should I do if my application is rejected?"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(53)",
+    "actual_text_content": "How do I contact support?"
+  },
+  {
+    "page_url": "/dashboard/faqs",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(56)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(1)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "nav:nth-of-type(2)",
+    "actual_text_content": "My ApplicationsFacilitiesAction ItemsUser ManagementAnnouncementsSettingsSupportFAQsTicketsContactTake a Tour"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(3)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(9)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(12)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(15)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(18)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(21)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(24)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(27)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(30)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h1:nth-of-type(32)",
+    "actual_text_content": "Support Tickets"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(33)",
+    "actual_text_content": "Track and manage your support tickets."
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(34)",
+    "actual_text_content": "+ New Ticket"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(40)",
+    "actual_text_content": "Status:"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(41)",
+    "actual_text_content": "All"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(43)",
+    "actual_text_content": "Priority:"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(46)",
+    "actual_text_content": "TICK-019"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(47)",
+    "actual_text_content": "open"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(48)",
+    "actual_text_content": "medium"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(49)",
+    "actual_text_content": "TEST"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(51)",
+    "actual_text_content": "Created 6 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(52)",
+    "actual_text_content": "0 replies"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(53)",
+    "actual_text_content": "Updated 6 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(54)",
+    "actual_text_content": "View Details"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(55)",
+    "actual_text_content": "TICK-018"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(64)",
+    "actual_text_content": "TICK-017"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(65)",
+    "actual_text_content": "in-progress"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(67)",
+    "actual_text_content": "I can't login - need password reset"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(72)",
+    "actual_text_content": "TICK-016"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(75)",
+    "actual_text_content": "Test"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(76)",
+    "actual_text_content": "Test description"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(77)",
+    "actual_text_content": "Created 19 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(79)",
+    "actual_text_content": "Updated 19 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(81)",
+    "actual_text_content": "TICK-015"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(84)",
+    "actual_text_content": "zsxdfcvg"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(85)",
+    "actual_text_content": "zsxdcfv"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(86)",
+    "actual_text_content": "Created about 1 month ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(88)",
+    "actual_text_content": "Updated about 1 month ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(90)",
+    "actual_text_content": "TICK-014"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(93)",
+    "actual_text_content": "zxecrv"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(94)",
+    "actual_text_content": "sedfr"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(99)",
+    "actual_text_content": "TICK-013"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(102)",
+    "actual_text_content": "testing support ticke submission"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(103)",
+    "actual_text_content": "azsdxfcvg"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(108)",
+    "actual_text_content": "TICK-012"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(111)",
+    "actual_text_content": "testing support ticket submission"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(112)",
+    "actual_text_content": "zsdxfc"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(117)",
+    "actual_text_content": "TICK-011"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(126)",
+    "actual_text_content": "TICK-010"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(130)",
+    "actual_text_content": "xdcf"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(135)",
+    "actual_text_content": "TICK-009"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(139)",
+    "actual_text_content": "zxcfvgbhnjkm"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(144)",
+    "actual_text_content": "TICK-008"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(148)",
+    "actual_text_content": "zsxdfc"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(153)",
+    "actual_text_content": "TICK-007"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(156)",
+    "actual_text_content": "My script is not showing correctly"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(161)",
+    "actual_text_content": "TICK-006"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(169)",
+    "actual_text_content": "TICK-005"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(177)",
+    "actual_text_content": "TICK-004"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(185)",
+    "actual_text_content": "TICK-003"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(188)",
+    "actual_text_content": "Login issue"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(189)",
+    "actual_text_content": "Unable to login"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(190)",
+    "actual_text_content": "Created 2 months ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(192)",
+    "actual_text_content": "Updated 2 months ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(194)",
+    "actual_text_content": "TICK-002"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(197)",
+    "actual_text_content": "Waiver Application Submission Failure"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(198)",
+    "actual_text_content": "While submitting a completed waiver application, the system displays an error message and prevents submission. All required fields appear to be filled. The issue occurs consistently when clicking the Submit Application button. User requests investigation into potential system or validation errors."
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(199)",
+    "actual_text_content": "Created 3 months ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(200)",
+    "actual_text_content": "1 replies"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(201)",
+    "actual_text_content": "Updated 3 months ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(203)",
+    "actual_text_content": "TICK-001"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(206)",
+    "actual_text_content": "Login Issue – Unable to Access Waiver Pro Portal"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(207)",
+    "actual_text_content": "User from CDPH is unable to log into the Waiver Pro portal. After entering valid credentials, the system either refreshes the login page or shows an authentication error. The issue started today and persists across different browsers (Chrome and Edge). User requests assistance in verifying account s"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(213)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(1)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "text_block",
+    "component_selector": "nav:nth-of-type(2)",
+    "actual_text_content": "My ApplicationsFacilitiesAction ItemsUser ManagementAnnouncementsSettingsSupportFAQsTicketsContactTake a Tour"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(3)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(9)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(12)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(15)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(18)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(21)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(24)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(27)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(30)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(33)",
+    "actual_text_content": "Get in touch with our support team"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(39)",
+    "actual_text_content": "Send us a message"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(40)",
+    "actual_text_content": "Name"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(41)",
+    "actual_text_content": "Email"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(42)",
+    "actual_text_content": "Subject"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(43)",
+    "actual_text_content": "Message"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(44)",
+    "actual_text_content": "Send Message"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(45)",
+    "actual_text_content": "Contact Information"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(46)",
+    "actual_text_content": "Quick Response"
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(47)",
+    "actual_text_content": "We typically respond to all inquiries within 24 hours during business days. For urgent matters, please call our support line."
+  },
+  {
+    "page_url": "/dashboard/contact",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(49)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(1)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "nav:nth-of-type(2)",
+    "actual_text_content": "My ApplicationsFacilitiesAction ItemsUser ManagementAnnouncementsSettingsSupportFAQsTicketsContactTake a Tour"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(3)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(9)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(12)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(15)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(18)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(21)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(24)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "a:nth-of-type(27)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(30)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(33)",
+    "actual_text_content": "Manage your account and preferences"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(39)",
+    "actual_text_content": "Organisation"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(40)",
+    "actual_text_content": "Partner Sample"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(41)",
+    "actual_text_content": "Profile Information"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(42)",
+    "actual_text_content": "First Name"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(43)",
+    "actual_text_content": "Last Name"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(44)",
+    "actual_text_content": "Email"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(45)",
+    "actual_text_content": "Email address cannot be changed"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(46)",
+    "actual_text_content": "Phone Number"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(47)",
+    "actual_text_content": "Save Changes"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(48)",
+    "actual_text_content": "Notifications"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(49)",
+    "actual_text_content": "Email Notifications"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(50)",
+    "actual_text_content": "Receive updates about your applications"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(53)",
+    "actual_text_content": "Status Updates"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(54)",
+    "actual_text_content": "Get notified when application status changes"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(58)",
+    "actual_text_content": "Alerts for tasks requiring your attention"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(61)",
+    "actual_text_content": "Security"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(62)",
+    "actual_text_content": "Current Password"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(63)",
+    "actual_text_content": "New Password"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(64)",
+    "actual_text_content": "Password must be at least 6 characters long"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(65)",
+    "actual_text_content": "Confirm New Password"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(66)",
+    "actual_text_content": "Change Password"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(67)",
+    "actual_text_content": "Features"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(68)",
+    "actual_text_content": "Toggle experimental or upcoming features"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(69)",
+    "actual_text_content": "Facilities Status Tracking"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(70)",
+    "actual_text_content": "Show application due dates and status on the Facilities page"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "label:nth-of-type(73)",
+    "actual_text_content": "FAQ Assistant Chatbot"
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(74)",
+    "actual_text_content": "Show the AI FAQ assistant. Off by default to avoid loading it on every page."
+  },
+  {
+    "page_url": "/dashboard/settings",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(78)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(2)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(4)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(8)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(10)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(12)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(14)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(16)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(18)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(20)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(21)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(29)",
+    "actual_text_content": "All0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(31)",
+    "actual_text_content": "Patient Needs Waiver (PNW) Request"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(32)",
+    "actual_text_content": "Program Flexibility (PF) Request"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(33)",
+    "actual_text_content": "Workforce Shortage Waiver (WSW) Request"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(34)",
+    "actual_text_content": "All Applications 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(36)",
+    "actual_text_content": "Draft 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(38)",
+    "actual_text_content": "Submitted 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(40)",
+    "actual_text_content": "Reopen 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(42)",
+    "actual_text_content": "In Review 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(44)",
+    "actual_text_content": "Rejected 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(46)",
+    "actual_text_content": "Approved 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(48)",
+    "actual_text_content": "Evaluator Review 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(50)",
+    "actual_text_content": "Manager Review 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(52)",
+    "actual_text_content": "Revoked 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(54)",
+    "actual_text_content": "Expired 0"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(56)",
+    "actual_text_content": "Rows per page"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-h3:nth-of-type(63)",
+    "actual_text_content": "Applications by Type"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-h3:nth-of-type(64)",
+    "actual_text_content": "Applications Overview"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-h3:nth-of-type(66)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-h2:nth-of-type(68)",
+    "actual_text_content": "New Waiver Application"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-p:nth-of-type(69)",
+    "actual_text_content": "Complete the form to submit your waiver request"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(70)",
+    "actual_text_content": "Waiver Type"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(71)",
+    "actual_text_content": "Select Location"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(72)",
+    "actual_text_content": "Fill Application"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-h3:nth-of-type(73)",
+    "actual_text_content": "Select Waiver Type"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-p:nth-of-type(74)",
+    "actual_text_content": "Choose the type of waiver request that best matches your needs"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-label:nth-of-type(75)",
+    "actual_text_content": "Patient Needs Waiver (PNW) RequestApply when the facility is seeking a waiver of the 2.4 CNA requirement to meet individual patient needs but will provide a minimum of 3.5 direct care service hours. Facilities may only submit one Patient Needs Waiver and/or one Workforce Shortage Waiver application "
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-p:nth-of-type(78)",
+    "actual_text_content": "Apply when the facility is seeking a waiver of the 2.4 CNA requirement to meet individual patient needs but will provide a minimum of 3.5 direct care service hours. Facilities may only submit one Patient Needs Waiver and/or one Workforce Shortage Waiver application in the same year. If submitting bo"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-label:nth-of-type(79)",
+    "actual_text_content": "Program Flexibility (PF) RequestApply when the facility is seeking program flexibility to regulations. The request must include justification for the program flexibility, adequate description of the alternative concept, and documentation supporting that patient care will not be compromised. The faci"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-p:nth-of-type(82)",
+    "actual_text_content": "Apply when the facility is seeking program flexibility to regulations. The request must include justification for the program flexibility, adequate description of the alternative concept, and documentation supporting that patient care will not be compromised. The facility may request program flexibi"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-label:nth-of-type(83)",
+    "actual_text_content": "Workforce Shortage Waiver (WSW) RequestExpiredApply when the facility is seeking a waiver of the 3.5 direct care service hours requirement and/or the 2.4 CNA hours requirement due to a workforce shortage of available and appropriate health care professionals and direct care givers. Facilities may on"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-span:nth-of-type(86)",
+    "actual_text_content": "Expired"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-p:nth-of-type(87)",
+    "actual_text_content": "Apply when the facility is seeking a waiver of the 3.5 direct care service hours requirement and/or the 2.4 CNA hours requirement due to a workforce shortage of available and appropriate health care professionals and direct care givers. Facilities may only submit one Patient Needs Waiver and/or one "
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-p:nth-of-type(88)",
+    "actual_text_content": "This waiver is no longer available"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-p:nth-of-type(89)",
+    "actual_text_content": "This waiver was available from Dec 29, 2025 to Apr 30, 2026"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(90)",
+    "actual_text_content": "Next"
+  },
+  {
+    "page_url": "/dashboard/my-applications?newApplicationPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-button:nth-of-type(91)",
+    "actual_text_content": "Close"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-invite-button:nth-of-type(2)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(4)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(8)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(10)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(12)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(14)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(16)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(18)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(20)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-invite-button:nth-of-type(21)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-invite-button:nth-of-type(29)",
+    "actual_text_content": "Member (4)"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-invite-button:nth-of-type(30)",
+    "actual_text_content": "Pending Invites18"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-invite-button:nth-of-type(33)",
+    "actual_text_content": "Invite User"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(42)",
+    "actual_text_content": "Rows per page"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(45)",
+    "actual_text_content": "Page 1 of 1"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-invite-h3:nth-of-type(51)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-p:nth-of-type(54)",
+    "actual_text_content": "The invited user will get an email with account setup instructions."
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-label:nth-of-type(55)",
+    "actual_text_content": "First Name *"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-label:nth-of-type(57)",
+    "actual_text_content": "Last Name *"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-label:nth-of-type(59)",
+    "actual_text_content": "Email *"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-invite-button:nth-of-type(61)",
+    "actual_text_content": "Location(optional)"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-invite-span:nth-of-type(63)",
+    "actual_text_content": "(optional)"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-invite-button:nth-of-type(64)",
+    "actual_text_content": "Cancel"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-invite-button:nth-of-type(65)",
+    "actual_text_content": "Next: Associate Facilities"
+  },
+  {
+    "page_url": "/dashboard/user-management?inviteUserPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-invite-button:nth-of-type(66)",
+    "actual_text_content": "Close"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-ticket-button:nth-of-type(2)",
+    "actual_text_content": "+ New Application"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(4)",
+    "actual_text_content": "My Applications"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(6)",
+    "actual_text_content": "Facilities"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(8)",
+    "actual_text_content": "Action Items"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(10)",
+    "actual_text_content": "User Management"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(12)",
+    "actual_text_content": "Announcements"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(14)",
+    "actual_text_content": "Settings"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(16)",
+    "actual_text_content": "FAQs"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(18)",
+    "actual_text_content": "Tickets"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(20)",
+    "actual_text_content": "Contact"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-ticket-button:nth-of-type(21)",
+    "actual_text_content": "Take a Tour"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h1:nth-of-type(23)",
+    "actual_text_content": "Support Tickets"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(24)",
+    "actual_text_content": "Track and manage your support tickets."
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-ticket-button:nth-of-type(25)",
+    "actual_text_content": "+ New Ticket"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(31)",
+    "actual_text_content": "Status:"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-ticket-button:nth-of-type(32)",
+    "actual_text_content": "All"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(34)",
+    "actual_text_content": "Priority:"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(37)",
+    "actual_text_content": "TICK-019"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(38)",
+    "actual_text_content": "open"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(39)",
+    "actual_text_content": "medium"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(40)",
+    "actual_text_content": "TEST"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(42)",
+    "actual_text_content": "Created 6 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(43)",
+    "actual_text_content": "0 replies"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(44)",
+    "actual_text_content": "Updated 6 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-ticket-button:nth-of-type(45)",
+    "actual_text_content": "View Details"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(46)",
+    "actual_text_content": "TICK-018"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(55)",
+    "actual_text_content": "TICK-017"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(56)",
+    "actual_text_content": "in-progress"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(58)",
+    "actual_text_content": "I can't login - need password reset"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(63)",
+    "actual_text_content": "TICK-016"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(66)",
+    "actual_text_content": "Test"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(67)",
+    "actual_text_content": "Test description"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(68)",
+    "actual_text_content": "Created 19 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(70)",
+    "actual_text_content": "Updated 19 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(72)",
+    "actual_text_content": "TICK-015"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(75)",
+    "actual_text_content": "zsxdfcvg"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(76)",
+    "actual_text_content": "zsxdcfv"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(77)",
+    "actual_text_content": "Created about 1 month ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(79)",
+    "actual_text_content": "Updated about 1 month ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(81)",
+    "actual_text_content": "TICK-014"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(84)",
+    "actual_text_content": "zxecrv"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(85)",
+    "actual_text_content": "sedfr"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(90)",
+    "actual_text_content": "TICK-013"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(93)",
+    "actual_text_content": "testing support ticke submission"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(94)",
+    "actual_text_content": "azsdxfcvg"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(99)",
+    "actual_text_content": "TICK-012"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(102)",
+    "actual_text_content": "testing support ticket submission"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(103)",
+    "actual_text_content": "zsdxfc"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(108)",
+    "actual_text_content": "TICK-011"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(117)",
+    "actual_text_content": "TICK-010"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(121)",
+    "actual_text_content": "xdcf"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(126)",
+    "actual_text_content": "TICK-009"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(130)",
+    "actual_text_content": "zxcfvgbhnjkm"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(135)",
+    "actual_text_content": "TICK-008"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(139)",
+    "actual_text_content": "zsxdfc"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(144)",
+    "actual_text_content": "TICK-007"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(147)",
+    "actual_text_content": "My script is not showing correctly"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(152)",
+    "actual_text_content": "TICK-006"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(160)",
+    "actual_text_content": "TICK-005"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(168)",
+    "actual_text_content": "TICK-004"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(176)",
+    "actual_text_content": "TICK-003"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(179)",
+    "actual_text_content": "Login issue"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(180)",
+    "actual_text_content": "Unable to login"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(181)",
+    "actual_text_content": "Created 2 months ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(183)",
+    "actual_text_content": "Updated 2 months ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(185)",
+    "actual_text_content": "TICK-002"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(188)",
+    "actual_text_content": "Waiver Application Submission Failure"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(189)",
+    "actual_text_content": "While submitting a completed waiver application, the system displays an error message and prevents submission. All required fields appear to be filled. The issue occurs consistently when clicking the Submit Application button. User requests investigation into potential system or validation errors."
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(190)",
+    "actual_text_content": "Created 3 months ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(191)",
+    "actual_text_content": "1 replies"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(192)",
+    "actual_text_content": "Updated 3 months ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(194)",
+    "actual_text_content": "TICK-001"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(197)",
+    "actual_text_content": "Login Issue – Unable to Access Waiver Pro Portal"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(198)",
+    "actual_text_content": "User from CDPH is unable to log into the Waiver Pro portal. After entering valid credentials, the system either refreshes the login page or shows an authentication error. The issue started today and persists across different browsers (Chrome and Edge). User requests assistance in verifying account s"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(204)",
+    "actual_text_content": "CDPH FAQ Assistant"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h2:nth-of-type(206)",
+    "actual_text_content": "Create New Support Ticket"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-label:nth-of-type(207)",
+    "actual_text_content": "Title *"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-label:nth-of-type(209)",
+    "actual_text_content": "Related Application"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(210)",
+    "actual_text_content": "Select the waiver application this ticket is related to"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-label:nth-of-type(211)",
+    "actual_text_content": "Category"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-ticket-button:nth-of-type(212)",
+    "actual_text_content": "Select a category"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-label:nth-of-type(214)",
+    "actual_text_content": "Sub Category"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-ticket-button:nth-of-type(215)",
+    "actual_text_content": "Select a category first"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-label:nth-of-type(217)",
+    "actual_text_content": "Description"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-label:nth-of-type(218)",
+    "actual_text_content": "Attachments"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-label:nth-of-type(219)",
+    "actual_text_content": "Click to upload filesFiles will upload immediately"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(220)",
+    "actual_text_content": "Click to upload files"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(221)",
+    "actual_text_content": "Files will upload immediately"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-ticket-button:nth-of-type(222)",
+    "actual_text_content": "Cancel"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-ticket-button:nth-of-type(223)",
+    "actual_text_content": "Create Ticket"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "interactive_element",
+    "component_selector": "panel-ticket-button:nth-of-type(224)",
+    "actual_text_content": "Close"
+  }
+]
