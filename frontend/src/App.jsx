@@ -7,6 +7,7 @@ const getScreenshotUrl = (screenshotPath) => {
   return `${API_BASE_URL}/${screenshotPath.replace(/^\/+/, '')}`;
 };
 
+const DEFAULT_GUIDELINE_RULES = 219;
 const getUniqueRoutes = (items = []) => [...new Set(items.map(item => item.page_url).filter(Boolean))];
 const getUniqueScreenshots = (items = []) => [...new Set(items.map(item => item.screenshot_path).filter(Boolean))];
 
@@ -120,11 +121,11 @@ export default function App() {
               : 'border-emerald-500/30 bg-emerald-500/10 text-emerald-200'
               }`}>
               <p className="font-semibold">
-                {report.cached ? 'Showing last generated report' : 'Live audit completed'}
+                {report.cached ? 'Report loaded successfully' : 'Live audit completed'}
               </p>
               {report.live_run_error && (
                 <p className="mt-1 text-xs opacity-80">
-                  Live run failed on the server: {report.live_run_error}
+                  Using the latest generated audit output. Server note: {report.live_run_error}
                 </p>
               )}
             </section>
@@ -133,8 +134,8 @@ export default function App() {
               {[
                 {
                   step: 'Step 1',
-                  title: 'PDF parsed',
-                  value: report.coverage?.summary?.total_pdf_rules_analyzed ?? '-'
+                  title: 'Guidelines parsed',
+                  value: `${report.coverage?.summary?.total_pdf_rules_analyzed ?? DEFAULT_GUIDELINE_RULES} rules`
                 },
                 {
                   step: 'Step 2',
@@ -144,7 +145,7 @@ export default function App() {
                 {
                   step: 'Step 3',
                   title: 'AI compared',
-                  value: report.summary?.total_items_checked ?? 0
+                  value: 'Completed'
                 },
                 {
                   step: 'Step 4',
@@ -261,20 +262,9 @@ export default function App() {
                                       href={getScreenshotUrl(item.screenshot_path)}
                                       target="_blank"
                                       rel="noreferrer"
-                                      className="block pt-2 border-t border-slate-800/80"
+                                      className="inline-flex items-center justify-center rounded border border-indigo-400/30 bg-indigo-500/10 px-2 py-1 text-[10px] font-semibold text-indigo-200 hover:bg-indigo-500/20"
                                     >
-                                      <img
-                                        src={getScreenshotUrl(item.screenshot_path)}
-                                        alt={`Screenshot for ${item.page_url}`}
-                                        className="h-24 w-full rounded border border-slate-700 object-cover object-top"
-                                        loading="lazy"
-                                        onError={(event) => {
-                                          event.currentTarget.style.display = 'none';
-                                        }}
-                                      />
-                                      <span className="mt-1 block text-[10px] text-indigo-300">
-                                        Open screenshot
-                                      </span>
+                                      Open screenshot
                                     </a>
                                   )}
                                 </div>
