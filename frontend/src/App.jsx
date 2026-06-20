@@ -107,6 +107,19 @@ export default function App() {
         {/* Report output */}
         {report && (
           <main className="space-y-8">
+            <section className={`rounded-xl border p-4 text-sm ${report.cached
+              ? 'border-amber-500/30 bg-amber-500/10 text-amber-200'
+              : 'border-emerald-500/30 bg-emerald-500/10 text-emerald-200'
+              }`}>
+              <p className="font-semibold">
+                {report.cached ? 'Showing last generated report' : 'Live audit completed'}
+              </p>
+              {report.live_run_error && (
+                <p className="mt-1 text-xs opacity-80">
+                  Live run failed on the server: {report.live_run_error}
+                </p>
+              )}
+            </section>
 
             {/* Summary cards */}
             <section className="grid grid-cols-1 sm:grid-cols-3 gap-4">

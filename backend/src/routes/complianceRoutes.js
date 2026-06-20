@@ -130,6 +130,7 @@ router.post('/run', async (req, res, next) => {
     const cachedReport = readCachedReport();
     if (cachedReport) {
       console.warn('[PIPELINE] Returning last generated report because live run failed.');
+      cachedReport.live_run_error = error.message;
       return res.status(200).json(cachedReport);
     }
     next(error); // Pass to express error handler
