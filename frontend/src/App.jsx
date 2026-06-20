@@ -268,6 +268,9 @@ export default function App() {
                                         alt={`Screenshot for ${item.page_url}`}
                                         className="h-24 w-full rounded border border-slate-700 object-cover object-top"
                                         loading="lazy"
+                                        onError={(event) => {
+                                          event.currentTarget.style.display = 'none';
+                                        }}
                                       />
                                       <span className="mt-1 block text-[10px] text-indigo-300">
                                         Open screenshot
