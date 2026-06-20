@@ -123,9 +123,9 @@ export default function App() {
               <p className="font-semibold">
                 {report.cached ? 'Report loaded successfully' : 'Live audit completed'}
               </p>
-              {report.live_run_error && (
+              {report.cached && (
                 <p className="mt-1 text-xs opacity-80">
-                  Using the latest generated audit output. Server note: {report.live_run_error}
+                  Using the latest generated audit output.
                 </p>
               )}
             </section>
