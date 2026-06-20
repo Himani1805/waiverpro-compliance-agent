@@ -177,12 +177,7 @@ export const extractUIState = async () => {
       headless: true,
       args: [
         '--no-sandbox',
-        '--disable-setuid-sandbox',
-        '--disable-dev-shm-usage',
-        '--disable-gpu',
-        '--no-zygote',
-        '--disable-extensions',
-        '--disable-background-networking'
+        '--disable-setuid-sandbox'
       ],
       protocolTimeout: 120000,
     });
