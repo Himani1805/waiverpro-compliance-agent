@@ -26,6 +26,8 @@ Create `backend/.env`:
 ```env
 PORT=3000
 MONGO_URI=mongodb://127.0.0.1:27017/compliance-agent
+# Or use MongoDB Atlas:
+# MONGO_URI=mongodb+srv://<username>:<password>@<cluster-url>/compliance-agent?retryWrites=true&w=majority
 TARGET_URL=https://white-cliff-0bca3ed00.1.azurestaticapps.net/
 TARGET_AUTH_EMAIL=admin@gmail.com
 TARGET_AUTH_PASSWORD=password
@@ -60,6 +62,14 @@ Backend API: `http://localhost:3000`
 
 Frontend: `http://localhost:5173`
 
+For Render deployment, use:
+```bash
+Build Command: npm install
+Start Command: npm start
+```
+
+Set the backend environment variables in Render, especially `MONGO_URI`, `GEMINI_API_KEY`, `TARGET_URL`, `TARGET_AUTH_EMAIL`, `TARGET_AUTH_PASSWORD`, and `FRONTEND_URL`.
+
 ---
 
 ## 3. How The Project Works
@@ -91,6 +101,12 @@ graph TD
 * `mongoose` and MongoDB for storing report records.
 * React and Vite for the dashboard.
 
+### Design decisions
+* The guideline PDF is kept as a backend input file because the assignment provides a fixed official manual.
+* The scraper uses a fixed route list so coverage can be measured against the expected WaiverPro screens.
+* Screenshots and JSON files are saved under `backend/public/` so the final report can link back to visual evidence.
+* The API can return the latest generated report if a hosted live run fails, which keeps the dashboard usable on limited hosting environments.
+
 ---
 
 ## 5. Output Files
@@ -109,3 +125,10 @@ The audit writes files under `backend/public/`:
 * The scraper uses a fixed list of expected routes from the assignment.
 * The audit depends on the live site, network speed, and login availability.
 * LLM mismatch counts can vary slightly between runs.
+* Browser automation can be less stable on free hosting than on a local machine.
+
+## 7. Future Improvements
+
+* Add a job queue for long-running audits on hosted environments.
+* Store audit run history instead of replacing the latest report.
+* Add stronger screenshot-to-element mapping for pixel-level review.
