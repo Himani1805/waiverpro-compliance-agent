@@ -12,8 +12,9 @@ const MONGO_URI = process.env.MONGO_URI;
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://waiverpro-compliance-agent.vercel.app'
-];
+  'https://waiverpro-compliance-agent.vercel.app',
+  process.env.FRONTEND_URL
+].filter(Boolean);
 
 const corsOptions = {
   origin: (origin, callback) => {
@@ -24,7 +25,8 @@ const corsOptions = {
     callback(new Error(`CORS blocked for origin: ${origin}`));
   },
   methods: ['GET', 'POST', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'Origin', 'Accept'],
+  credentials: false,
   optionsSuccessStatus: 204
 };
 
