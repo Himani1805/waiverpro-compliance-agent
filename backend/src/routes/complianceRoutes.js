@@ -9,6 +9,29 @@ import { computeCoverage } from '../utils/coverageUtils.js';
 
 const router = express.Router();
 
+const readCachedReport = () => {
+  const publicDir = path.join(process.cwd(), 'public');
+  const reportPath = path.join(publicDir, 'compliance_report.json');
+
+  if (!fs.existsSync(reportPath)) {
+    return null;
+  }
+
+  const reportItems = JSON.parse(fs.readFileSync(reportPath, 'utf-8'));
+  const discrepancies = reportItems.filter(item => item.discrepancy_flag === true);
+
+  return {
+    success: true,
+    cached: true,
+    summary: {
+      total_items_checked: reportItems.length,
+      discrepancies_found: discrepancies.length,
+      disclaimer: "Automated compliance check wrapper. This does not replace manual QA verification."
+    },
+    data: reportItems
+  };
+};
+
 /**
  * Route: POST /api/compliance/run
  * Description: Runs the full compliance check pipeline step-by-step.
@@ -104,6 +127,11 @@ router.post('/run', async (req, res, next) => {
 
   } catch (error) {
     console.error(`[PIPELINE] Error running the pipeline: ${error.message}`);
+    const cachedReport = readCachedReport();
+    if (cachedReport) {
+      console.warn('[PIPELINE] Returning last generated report because live run failed.');
+      return res.status(200).json(cachedReport);
+    }
     next(error); // Pass to express error handler
   }
 });

@@ -181,10 +181,10 @@ export const extractUIState = async () => {
         '--disable-dev-shm-usage',
         '--disable-gpu',
         '--no-zygote',
-        '--single-process',
         '--disable-extensions',
         '--disable-background-networking'
       ],
+      protocolTimeout: 120000,
     });
 
     const page = await browser.newPage();

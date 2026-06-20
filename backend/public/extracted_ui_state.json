@@ -1497,300 +1497,150 @@
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
     "component_selector": "button:nth-of-type(38)",
-    "actual_text_content": "All507"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(39)",
-    "actual_text_content": "507"
+    "actual_text_content": "All0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
     "component_selector": "button:nth-of-type(40)",
-    "actual_text_content": "Patient Needs Waiver (PNW) Request376"
+    "actual_text_content": "Patient Needs Waiver (PNW) Request"
   },
   {
     "page_url": "/dashboard/my-applications",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(41)",
-    "actual_text_content": "376"
+    "component_type": "interactive_element",
+    "component_selector": "button:nth-of-type(41)",
+    "actual_text_content": "Program Flexibility (PF) Request"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
     "component_selector": "button:nth-of-type(42)",
-    "actual_text_content": "Program Flexibility (PF) Request116"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(43)",
-    "actual_text_content": "116"
+    "actual_text_content": "Workforce Shortage Waiver (WSW) Request"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(44)",
-    "actual_text_content": "Workforce Shortage Waiver (WSW) Request15"
+    "component_selector": "button:nth-of-type(43)",
+    "actual_text_content": "All Applications 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(46)",
-    "actual_text_content": "All Applications 507"
+    "component_selector": "button:nth-of-type(45)",
+    "actual_text_content": "Draft 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(48)",
-    "actual_text_content": "Draft 193"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(49)",
-    "actual_text_content": "193"
+    "component_selector": "button:nth-of-type(47)",
+    "actual_text_content": "Submitted 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(50)",
-    "actual_text_content": "Submitted 296"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(51)",
-    "actual_text_content": "296"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(52)",
+    "component_selector": "button:nth-of-type(49)",
     "actual_text_content": "Reopen 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(54)",
-    "actual_text_content": "In Review 4"
+    "component_selector": "button:nth-of-type(51)",
+    "actual_text_content": "In Review 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(56)",
+    "component_selector": "button:nth-of-type(53)",
     "actual_text_content": "Rejected 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(58)",
-    "actual_text_content": "Approved 6"
+    "component_selector": "button:nth-of-type(55)",
+    "actual_text_content": "Approved 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(60)",
-    "actual_text_content": "Evaluator Review 1"
+    "component_selector": "button:nth-of-type(57)",
+    "actual_text_content": "Evaluator Review 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(62)",
-    "actual_text_content": "Manager Review 7"
+    "component_selector": "button:nth-of-type(59)",
+    "actual_text_content": "Manager Review 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(64)",
+    "component_selector": "button:nth-of-type(61)",
     "actual_text_content": "Revoked 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "interactive_element",
-    "component_selector": "button:nth-of-type(66)",
+    "component_selector": "button:nth-of-type(63)",
     "actual_text_content": "Expired 0"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "table_cell",
-    "component_selector": "th:nth-of-type(68)",
+    "component_selector": "th:nth-of-type(65)",
     "actual_text_content": "Waiver ID"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "table_cell",
-    "component_selector": "th:nth-of-type(69)",
+    "component_selector": "th:nth-of-type(66)",
     "actual_text_content": "Name"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "table_cell",
-    "component_selector": "th:nth-of-type(70)",
+    "component_selector": "th:nth-of-type(67)",
     "actual_text_content": "Facility"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "table_cell",
-    "component_selector": "th:nth-of-type(71)",
+    "component_selector": "th:nth-of-type(68)",
     "actual_text_content": "Type"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "table_cell",
-    "component_selector": "th:nth-of-type(72)",
+    "component_selector": "th:nth-of-type(69)",
     "actual_text_content": "Status"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "table_cell",
-    "component_selector": "th:nth-of-type(73)",
+    "component_selector": "th:nth-of-type(70)",
     "actual_text_content": "Created on"
   },
   {
     "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(74)",
-    "actual_text_content": "PNW-01380-Q2H7C9"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(75)",
-    "actual_text_content": "1 & 1 HOME HEALTH, INC. - Patient Needs Waiver"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(77)",
-    "actual_text_content": "1 & 1 HOME HEALTH, INC."
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(78)",
-    "actual_text_content": "Patient Needs Waiver (PNW) Request"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(80)",
-    "actual_text_content": "Submitted"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(84)",
-    "actual_text_content": "Jun 16, 2026"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(85)",
-    "actual_text_content": "PNW-01379-C5M7J8"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(91)",
-    "actual_text_content": "Draft"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(96)",
-    "actual_text_content": "PNW-01378-M1Z4W4"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(107)",
-    "actual_text_content": "PNW-01377-R3B6D3"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(118)",
-    "actual_text_content": "PNW-01376-L0G5H8"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(119)",
-    "actual_text_content": "1035 MARKET CLINIC - Patient Needs Waiver"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(121)",
-    "actual_text_content": "1035 MARKET CLINIC"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(129)",
-    "actual_text_content": "PNW-01375-T1H1Q9"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(130)",
-    "actual_text_content": "39TH AVENUE CLINICS (MAIN CLINIC) - Patient Needs Waiver"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(132)",
-    "actual_text_content": "39TH AVENUE CLINICS (MAIN CLINIC)"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(140)",
-    "actual_text_content": "PNW-01374-C6S6J0"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(151)",
-    "actual_text_content": "PNW-01373-F0C4D9"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(162)",
-    "actual_text_content": "PNW-01372-V7Y1Y4"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
-    "component_type": "table_cell",
-    "component_selector": "td:nth-of-type(173)",
-    "actual_text_content": "PNW-01371-K0H8X4"
-  },
-  {
-    "page_url": "/dashboard/my-applications",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(184)",
+    "component_selector": "span:nth-of-type(131)",
     "actual_text_content": "Rows per page"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(191)",
+    "component_selector": "h3:nth-of-type(138)",
     "actual_text_content": "Applications by Type"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(192)",
+    "component_selector": "h3:nth-of-type(139)",
     "actual_text_content": "Applications Overview"
   },
   {
     "page_url": "/dashboard/my-applications",
     "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(194)",
+    "component_selector": "h3:nth-of-type(141)",
     "actual_text_content": "CDPH FAQ Assistant"
   },
   {
@@ -1869,13 +1719,7 @@
     "page_url": "/dashboard/facilities",
     "component_type": "interactive_element",
     "component_selector": "button:nth-of-type(38)",
-    "actual_text_content": "All Facilities 5000"
-  },
-  {
-    "page_url": "/dashboard/facilities",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(39)",
-    "actual_text_content": "5000"
+    "actual_text_content": "All Facilities 0"
   },
   {
     "page_url": "/dashboard/facilities",
@@ -1887,37 +1731,25 @@
     "page_url": "/dashboard/facilities",
     "component_type": "interactive_element",
     "component_selector": "button:nth-of-type(42)",
-    "actual_text_content": "Upcoming 1000"
-  },
-  {
-    "page_url": "/dashboard/facilities",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(43)",
-    "actual_text_content": "1000"
+    "actual_text_content": "Upcoming 0"
   },
   {
     "page_url": "/dashboard/facilities",
     "component_type": "interactive_element",
     "component_selector": "button:nth-of-type(44)",
-    "actual_text_content": "Scheduled 1000"
+    "actual_text_content": "Scheduled 0"
   },
   {
     "page_url": "/dashboard/facilities",
     "component_type": "interactive_element",
     "component_selector": "button:nth-of-type(46)",
-    "actual_text_content": "Overdue 28"
+    "actual_text_content": "Overdue 0"
   },
   {
     "page_url": "/dashboard/facilities",
     "component_type": "interactive_element",
     "component_selector": "button:nth-of-type(48)",
-    "actual_text_content": "No Status 2972"
-  },
-  {
-    "page_url": "/dashboard/facilities",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(49)",
-    "actual_text_content": "2972"
+    "actual_text_content": "No Status 0"
   },
   {
     "page_url": "/dashboard/facilities",
@@ -2253,7 +2085,7 @@
     "page_url": "/dashboard/action-items",
     "component_type": "table_cell",
     "component_selector": "td:nth-of-type(54)",
-    "actual_text_content": "119d overdue"
+    "actual_text_content": "122d overdue"
   },
   {
     "page_url": "/dashboard/action-items",
@@ -2271,7 +2103,7 @@
     "page_url": "/dashboard/action-items",
     "component_type": "table_cell",
     "component_selector": "td:nth-of-type(63)",
-    "actual_text_content": "104d overdue"
+    "actual_text_content": "107d overdue"
   },
   {
     "page_url": "/dashboard/action-items",
@@ -2295,7 +2127,7 @@
     "page_url": "/dashboard/action-items",
     "component_type": "table_cell",
     "component_selector": "td:nth-of-type(72)",
-    "actual_text_content": "110d overdue"
+    "actual_text_content": "113d overdue"
   },
   {
     "page_url": "/dashboard/action-items",
@@ -2313,7 +2145,7 @@
     "page_url": "/dashboard/action-items",
     "component_type": "table_cell",
     "component_selector": "td:nth-of-type(81)",
-    "actual_text_content": "109d overdue"
+    "actual_text_content": "112d overdue"
   },
   {
     "page_url": "/dashboard/action-items",
@@ -2331,7 +2163,7 @@
     "page_url": "/dashboard/action-items",
     "component_type": "table_cell",
     "component_selector": "td:nth-of-type(90)",
-    "actual_text_content": "108d overdue"
+    "actual_text_content": "111d overdue"
   },
   {
     "page_url": "/dashboard/action-items",
@@ -2349,7 +2181,7 @@
     "page_url": "/dashboard/action-items",
     "component_type": "table_cell",
     "component_selector": "td:nth-of-type(99)",
-    "actual_text_content": "107d overdue"
+    "actual_text_content": "110d overdue"
   },
   {
     "page_url": "/dashboard/action-items",
@@ -2367,7 +2199,7 @@
     "page_url": "/dashboard/action-items",
     "component_type": "table_cell",
     "component_selector": "td:nth-of-type(108)",
-    "actual_text_content": "96d overdue"
+    "actual_text_content": "99d overdue"
   },
   {
     "page_url": "/dashboard/action-items",
@@ -2385,7 +2217,7 @@
     "page_url": "/dashboard/action-items",
     "component_type": "table_cell",
     "component_selector": "td:nth-of-type(117)",
-    "actual_text_content": "95d overdue"
+    "actual_text_content": "98d overdue"
   },
   {
     "page_url": "/dashboard/action-items",
@@ -3039,7 +2871,7 @@
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
     "component_selector": "span:nth-of-type(46)",
-    "actual_text_content": "TICK-019"
+    "actual_text_content": "TICK-026"
   },
   {
     "page_url": "/dashboard/tickets",
@@ -3057,13 +2889,19 @@
     "page_url": "/dashboard/tickets",
     "component_type": "header_element",
     "component_selector": "h3:nth-of-type(49)",
+    "actual_text_content": "DMV DEMO TICKET"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(50)",
     "actual_text_content": "TEST"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
     "component_selector": "span:nth-of-type(51)",
-    "actual_text_content": "Created 6 days ago"
+    "actual_text_content": "Created 3 days ago"
   },
   {
     "page_url": "/dashboard/tickets",
@@ -3075,7 +2913,7 @@
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
     "component_selector": "span:nth-of-type(53)",
-    "actual_text_content": "Updated 6 days ago"
+    "actual_text_content": "Updated 3 days ago"
   },
   {
     "page_url": "/dashboard/tickets",
@@ -3087,300 +2925,378 @@
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
     "component_selector": "span:nth-of-type(55)",
-    "actual_text_content": "TICK-018"
+    "actual_text_content": "TICK-025"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
     "component_selector": "span:nth-of-type(64)",
+    "actual_text_content": "TICK-024"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(73)",
+    "actual_text_content": "TICK-023"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(82)",
+    "actual_text_content": "TICK-022"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(91)",
+    "actual_text_content": "TICK-021"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(94)",
+    "actual_text_content": "TEST ISSUE"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(95)",
+    "actual_text_content": "ABC"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(100)",
+    "actual_text_content": "TICK-020"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(109)",
+    "actual_text_content": "TICK-019"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(114)",
+    "actual_text_content": "Created 9 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(116)",
+    "actual_text_content": "Updated 9 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(118)",
+    "actual_text_content": "TICK-018"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(127)",
     "actual_text_content": "TICK-017"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(65)",
+    "component_selector": "span:nth-of-type(128)",
     "actual_text_content": "in-progress"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(67)",
+    "component_selector": "h3:nth-of-type(130)",
     "actual_text_content": "I can't login - need password reset"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(72)",
-    "actual_text_content": "TICK-016"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(75)",
-    "actual_text_content": "Test"
+    "component_selector": "span:nth-of-type(131)",
+    "actual_text_content": "Created 10 days ago"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "p:nth-of-type(76)",
-    "actual_text_content": "Test description"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(77)",
-    "actual_text_content": "Created 19 days ago"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(79)",
-    "actual_text_content": "Updated 19 days ago"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(81)",
-    "actual_text_content": "TICK-015"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(84)",
-    "actual_text_content": "zsxdfcvg"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "p:nth-of-type(85)",
-    "actual_text_content": "zsxdcfv"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(86)",
-    "actual_text_content": "Created about 1 month ago"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(88)",
-    "actual_text_content": "Updated about 1 month ago"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(90)",
-    "actual_text_content": "TICK-014"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(93)",
-    "actual_text_content": "zxecrv"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "p:nth-of-type(94)",
-    "actual_text_content": "sedfr"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(99)",
-    "actual_text_content": "TICK-013"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(102)",
-    "actual_text_content": "testing support ticke submission"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "p:nth-of-type(103)",
-    "actual_text_content": "azsdxfcvg"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(108)",
-    "actual_text_content": "TICK-012"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(111)",
-    "actual_text_content": "testing support ticket submission"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "p:nth-of-type(112)",
-    "actual_text_content": "zsdxfc"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(117)",
-    "actual_text_content": "TICK-011"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "span:nth-of-type(126)",
-    "actual_text_content": "TICK-010"
-  },
-  {
-    "page_url": "/dashboard/tickets",
-    "component_type": "text_block",
-    "component_selector": "p:nth-of-type(130)",
-    "actual_text_content": "xdcf"
+    "component_selector": "span:nth-of-type(133)",
+    "actual_text_content": "Updated 10 days ago"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
     "component_selector": "span:nth-of-type(135)",
-    "actual_text_content": "TICK-009"
+    "actual_text_content": "TICK-016"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(138)",
+    "actual_text_content": "Test"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
     "component_selector": "p:nth-of-type(139)",
-    "actual_text_content": "zxcfvgbhnjkm"
+    "actual_text_content": "Test description"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(140)",
+    "actual_text_content": "Created 23 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(142)",
+    "actual_text_content": "Updated 23 days ago"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
     "component_selector": "span:nth-of-type(144)",
-    "actual_text_content": "TICK-008"
+    "actual_text_content": "TICK-015"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(147)",
+    "actual_text_content": "zsxdfcvg"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
     "component_selector": "p:nth-of-type(148)",
-    "actual_text_content": "zsxdfc"
+    "actual_text_content": "zsxdcfv"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(149)",
+    "actual_text_content": "Created about 1 month ago"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(151)",
+    "actual_text_content": "Updated about 1 month ago"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
     "component_selector": "span:nth-of-type(153)",
-    "actual_text_content": "TICK-007"
+    "actual_text_content": "TICK-014"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "header_element",
     "component_selector": "h3:nth-of-type(156)",
+    "actual_text_content": "zxecrv"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(157)",
+    "actual_text_content": "sedfr"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(162)",
+    "actual_text_content": "TICK-013"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(165)",
+    "actual_text_content": "testing support ticke submission"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(166)",
+    "actual_text_content": "azsdxfcvg"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(171)",
+    "actual_text_content": "TICK-012"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(174)",
+    "actual_text_content": "testing support ticket submission"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(175)",
+    "actual_text_content": "zsdxfc"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(180)",
+    "actual_text_content": "TICK-011"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(189)",
+    "actual_text_content": "TICK-010"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(193)",
+    "actual_text_content": "xdcf"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(198)",
+    "actual_text_content": "TICK-009"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(202)",
+    "actual_text_content": "zxcfvgbhnjkm"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(207)",
+    "actual_text_content": "TICK-008"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "p:nth-of-type(211)",
+    "actual_text_content": "zsxdfc"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "text_block",
+    "component_selector": "span:nth-of-type(216)",
+    "actual_text_content": "TICK-007"
+  },
+  {
+    "page_url": "/dashboard/tickets",
+    "component_type": "header_element",
+    "component_selector": "h3:nth-of-type(219)",
     "actual_text_content": "My script is not showing correctly"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(161)",
+    "component_selector": "span:nth-of-type(224)",
     "actual_text_content": "TICK-006"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(169)",
+    "component_selector": "span:nth-of-type(232)",
     "actual_text_content": "TICK-005"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(177)",
+    "component_selector": "span:nth-of-type(240)",
     "actual_text_content": "TICK-004"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(185)",
+    "component_selector": "span:nth-of-type(248)",
     "actual_text_content": "TICK-003"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(188)",
+    "component_selector": "h3:nth-of-type(251)",
     "actual_text_content": "Login issue"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "p:nth-of-type(189)",
+    "component_selector": "p:nth-of-type(252)",
     "actual_text_content": "Unable to login"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(190)",
+    "component_selector": "span:nth-of-type(253)",
     "actual_text_content": "Created 2 months ago"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(192)",
+    "component_selector": "span:nth-of-type(255)",
     "actual_text_content": "Updated 2 months ago"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(194)",
+    "component_selector": "span:nth-of-type(257)",
     "actual_text_content": "TICK-002"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(197)",
+    "component_selector": "h3:nth-of-type(260)",
     "actual_text_content": "Waiver Application Submission Failure"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "p:nth-of-type(198)",
+    "component_selector": "p:nth-of-type(261)",
     "actual_text_content": "While submitting a completed waiver application, the system displays an error message and prevents submission. All required fields appear to be filled. The issue occurs consistently when clicking the Submit Application button. User requests investigation into potential system or validation errors."
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(199)",
-    "actual_text_content": "Created 3 months ago"
+    "component_selector": "span:nth-of-type(262)",
+    "actual_text_content": "Created 4 months ago"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(200)",
+    "component_selector": "span:nth-of-type(263)",
     "actual_text_content": "1 replies"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(201)",
-    "actual_text_content": "Updated 3 months ago"
+    "component_selector": "span:nth-of-type(264)",
+    "actual_text_content": "Updated 4 months ago"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "span:nth-of-type(203)",
+    "component_selector": "span:nth-of-type(266)",
     "actual_text_content": "TICK-001"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(206)",
+    "component_selector": "h3:nth-of-type(269)",
     "actual_text_content": "Login Issue – Unable to Access Waiver Pro Portal"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "text_block",
-    "component_selector": "p:nth-of-type(207)",
+    "component_selector": "p:nth-of-type(270)",
     "actual_text_content": "User from CDPH is unable to log into the Waiver Pro portal. After entering valid credentials, the system either refreshes the login page or shows an authentication error. The issue started today and persists across different browsers (Chrome and Edge). User requests assistance in verifying account s"
   },
   {
     "page_url": "/dashboard/tickets",
     "component_type": "header_element",
-    "component_selector": "h3:nth-of-type(213)",
+    "component_selector": "h3:nth-of-type(276)",
     "actual_text_content": "CDPH FAQ Assistant"
   },
   {
@@ -4317,7 +4233,7 @@
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
     "component_selector": "panel-ticket-span:nth-of-type(37)",
-    "actual_text_content": "TICK-019"
+    "actual_text_content": "TICK-026"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
@@ -4335,13 +4251,19 @@
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "header_element",
     "component_selector": "panel-ticket-h3:nth-of-type(40)",
+    "actual_text_content": "DMV DEMO TICKET"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(41)",
     "actual_text_content": "TEST"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
     "component_selector": "panel-ticket-span:nth-of-type(42)",
-    "actual_text_content": "Created 6 days ago"
+    "actual_text_content": "Created 3 days ago"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
@@ -4353,7 +4275,7 @@
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
     "component_selector": "panel-ticket-span:nth-of-type(44)",
-    "actual_text_content": "Updated 6 days ago"
+    "actual_text_content": "Updated 3 days ago"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
@@ -4365,396 +4287,474 @@
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
     "component_selector": "panel-ticket-span:nth-of-type(46)",
-    "actual_text_content": "TICK-018"
+    "actual_text_content": "TICK-025"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
     "component_selector": "panel-ticket-span:nth-of-type(55)",
+    "actual_text_content": "TICK-024"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(64)",
+    "actual_text_content": "TICK-023"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(73)",
+    "actual_text_content": "TICK-022"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(82)",
+    "actual_text_content": "TICK-021"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(85)",
+    "actual_text_content": "TEST ISSUE"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(86)",
+    "actual_text_content": "ABC"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(91)",
+    "actual_text_content": "TICK-020"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(100)",
+    "actual_text_content": "TICK-019"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(105)",
+    "actual_text_content": "Created 9 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(107)",
+    "actual_text_content": "Updated 9 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(109)",
+    "actual_text_content": "TICK-018"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(118)",
     "actual_text_content": "TICK-017"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(56)",
+    "component_selector": "panel-ticket-span:nth-of-type(119)",
     "actual_text_content": "in-progress"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-ticket-h3:nth-of-type(58)",
+    "component_selector": "panel-ticket-h3:nth-of-type(121)",
     "actual_text_content": "I can't login - need password reset"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(63)",
-    "actual_text_content": "TICK-016"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "header_element",
-    "component_selector": "panel-ticket-h3:nth-of-type(66)",
-    "actual_text_content": "Test"
+    "component_selector": "panel-ticket-span:nth-of-type(122)",
+    "actual_text_content": "Created 10 days ago"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-p:nth-of-type(67)",
-    "actual_text_content": "Test description"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(68)",
-    "actual_text_content": "Created 19 days ago"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(70)",
-    "actual_text_content": "Updated 19 days ago"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(72)",
-    "actual_text_content": "TICK-015"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "header_element",
-    "component_selector": "panel-ticket-h3:nth-of-type(75)",
-    "actual_text_content": "zsxdfcvg"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-p:nth-of-type(76)",
-    "actual_text_content": "zsxdcfv"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(77)",
-    "actual_text_content": "Created about 1 month ago"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(79)",
-    "actual_text_content": "Updated about 1 month ago"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(81)",
-    "actual_text_content": "TICK-014"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "header_element",
-    "component_selector": "panel-ticket-h3:nth-of-type(84)",
-    "actual_text_content": "zxecrv"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-p:nth-of-type(85)",
-    "actual_text_content": "sedfr"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(90)",
-    "actual_text_content": "TICK-013"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "header_element",
-    "component_selector": "panel-ticket-h3:nth-of-type(93)",
-    "actual_text_content": "testing support ticke submission"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-p:nth-of-type(94)",
-    "actual_text_content": "azsdxfcvg"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(99)",
-    "actual_text_content": "TICK-012"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "header_element",
-    "component_selector": "panel-ticket-h3:nth-of-type(102)",
-    "actual_text_content": "testing support ticket submission"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-p:nth-of-type(103)",
-    "actual_text_content": "zsdxfc"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(108)",
-    "actual_text_content": "TICK-011"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(117)",
-    "actual_text_content": "TICK-010"
-  },
-  {
-    "page_url": "/dashboard/tickets?newTicketPanel=open",
-    "component_type": "text_block",
-    "component_selector": "panel-ticket-p:nth-of-type(121)",
-    "actual_text_content": "xdcf"
+    "component_selector": "panel-ticket-span:nth-of-type(124)",
+    "actual_text_content": "Updated 10 days ago"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
     "component_selector": "panel-ticket-span:nth-of-type(126)",
-    "actual_text_content": "TICK-009"
+    "actual_text_content": "TICK-016"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(129)",
+    "actual_text_content": "Test"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
     "component_selector": "panel-ticket-p:nth-of-type(130)",
-    "actual_text_content": "zxcfvgbhnjkm"
+    "actual_text_content": "Test description"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(131)",
+    "actual_text_content": "Created 23 days ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(133)",
+    "actual_text_content": "Updated 23 days ago"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
     "component_selector": "panel-ticket-span:nth-of-type(135)",
-    "actual_text_content": "TICK-008"
+    "actual_text_content": "TICK-015"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(138)",
+    "actual_text_content": "zsxdfcvg"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
     "component_selector": "panel-ticket-p:nth-of-type(139)",
-    "actual_text_content": "zsxdfc"
+    "actual_text_content": "zsxdcfv"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(140)",
+    "actual_text_content": "Created about 1 month ago"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(142)",
+    "actual_text_content": "Updated about 1 month ago"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
     "component_selector": "panel-ticket-span:nth-of-type(144)",
-    "actual_text_content": "TICK-007"
+    "actual_text_content": "TICK-014"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "header_element",
     "component_selector": "panel-ticket-h3:nth-of-type(147)",
+    "actual_text_content": "zxecrv"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(148)",
+    "actual_text_content": "sedfr"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(153)",
+    "actual_text_content": "TICK-013"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(156)",
+    "actual_text_content": "testing support ticke submission"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(157)",
+    "actual_text_content": "azsdxfcvg"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(162)",
+    "actual_text_content": "TICK-012"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(165)",
+    "actual_text_content": "testing support ticket submission"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(166)",
+    "actual_text_content": "zsdxfc"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(171)",
+    "actual_text_content": "TICK-011"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(180)",
+    "actual_text_content": "TICK-010"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(184)",
+    "actual_text_content": "xdcf"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(189)",
+    "actual_text_content": "TICK-009"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(193)",
+    "actual_text_content": "zxcfvgbhnjkm"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(198)",
+    "actual_text_content": "TICK-008"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-p:nth-of-type(202)",
+    "actual_text_content": "zsxdfc"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "text_block",
+    "component_selector": "panel-ticket-span:nth-of-type(207)",
+    "actual_text_content": "TICK-007"
+  },
+  {
+    "page_url": "/dashboard/tickets?newTicketPanel=open",
+    "component_type": "header_element",
+    "component_selector": "panel-ticket-h3:nth-of-type(210)",
     "actual_text_content": "My script is not showing correctly"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(152)",
+    "component_selector": "panel-ticket-span:nth-of-type(215)",
     "actual_text_content": "TICK-006"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(160)",
+    "component_selector": "panel-ticket-span:nth-of-type(223)",
     "actual_text_content": "TICK-005"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(168)",
+    "component_selector": "panel-ticket-span:nth-of-type(231)",
     "actual_text_content": "TICK-004"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(176)",
+    "component_selector": "panel-ticket-span:nth-of-type(239)",
     "actual_text_content": "TICK-003"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-ticket-h3:nth-of-type(179)",
+    "component_selector": "panel-ticket-h3:nth-of-type(242)",
     "actual_text_content": "Login issue"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-p:nth-of-type(180)",
+    "component_selector": "panel-ticket-p:nth-of-type(243)",
     "actual_text_content": "Unable to login"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(181)",
+    "component_selector": "panel-ticket-span:nth-of-type(244)",
     "actual_text_content": "Created 2 months ago"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(183)",
+    "component_selector": "panel-ticket-span:nth-of-type(246)",
     "actual_text_content": "Updated 2 months ago"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(185)",
+    "component_selector": "panel-ticket-span:nth-of-type(248)",
     "actual_text_content": "TICK-002"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-ticket-h3:nth-of-type(188)",
+    "component_selector": "panel-ticket-h3:nth-of-type(251)",
     "actual_text_content": "Waiver Application Submission Failure"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-p:nth-of-type(189)",
+    "component_selector": "panel-ticket-p:nth-of-type(252)",
     "actual_text_content": "While submitting a completed waiver application, the system displays an error message and prevents submission. All required fields appear to be filled. The issue occurs consistently when clicking the Submit Application button. User requests investigation into potential system or validation errors."
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(190)",
-    "actual_text_content": "Created 3 months ago"
+    "component_selector": "panel-ticket-span:nth-of-type(253)",
+    "actual_text_content": "Created 4 months ago"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(191)",
+    "component_selector": "panel-ticket-span:nth-of-type(254)",
     "actual_text_content": "1 replies"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(192)",
-    "actual_text_content": "Updated 3 months ago"
+    "component_selector": "panel-ticket-span:nth-of-type(255)",
+    "actual_text_content": "Updated 4 months ago"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(194)",
+    "component_selector": "panel-ticket-span:nth-of-type(257)",
     "actual_text_content": "TICK-001"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-ticket-h3:nth-of-type(197)",
+    "component_selector": "panel-ticket-h3:nth-of-type(260)",
     "actual_text_content": "Login Issue – Unable to Access Waiver Pro Portal"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-p:nth-of-type(198)",
+    "component_selector": "panel-ticket-p:nth-of-type(261)",
     "actual_text_content": "User from CDPH is unable to log into the Waiver Pro portal. After entering valid credentials, the system either refreshes the login page or shows an authentication error. The issue started today and persists across different browsers (Chrome and Edge). User requests assistance in verifying account s"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-ticket-h3:nth-of-type(204)",
+    "component_selector": "panel-ticket-h3:nth-of-type(267)",
     "actual_text_content": "CDPH FAQ Assistant"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "header_element",
-    "component_selector": "panel-ticket-h2:nth-of-type(206)",
+    "component_selector": "panel-ticket-h2:nth-of-type(269)",
     "actual_text_content": "Create New Support Ticket"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-label:nth-of-type(207)",
+    "component_selector": "panel-ticket-label:nth-of-type(270)",
     "actual_text_content": "Title *"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-label:nth-of-type(209)",
+    "component_selector": "panel-ticket-label:nth-of-type(272)",
     "actual_text_content": "Related Application"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-p:nth-of-type(210)",
+    "component_selector": "panel-ticket-p:nth-of-type(273)",
     "actual_text_content": "Select the waiver application this ticket is related to"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-label:nth-of-type(211)",
+    "component_selector": "panel-ticket-label:nth-of-type(274)",
     "actual_text_content": "Category"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-ticket-button:nth-of-type(212)",
+    "component_selector": "panel-ticket-button:nth-of-type(275)",
     "actual_text_content": "Select a category"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-label:nth-of-type(214)",
+    "component_selector": "panel-ticket-label:nth-of-type(277)",
     "actual_text_content": "Sub Category"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-ticket-button:nth-of-type(215)",
+    "component_selector": "panel-ticket-button:nth-of-type(278)",
     "actual_text_content": "Select a category first"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-label:nth-of-type(217)",
+    "component_selector": "panel-ticket-label:nth-of-type(280)",
     "actual_text_content": "Description"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-label:nth-of-type(218)",
+    "component_selector": "panel-ticket-label:nth-of-type(281)",
     "actual_text_content": "Attachments"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-label:nth-of-type(219)",
+    "component_selector": "panel-ticket-label:nth-of-type(282)",
     "actual_text_content": "Click to upload filesFiles will upload immediately"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(220)",
+    "component_selector": "panel-ticket-span:nth-of-type(283)",
     "actual_text_content": "Click to upload files"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "text_block",
-    "component_selector": "panel-ticket-span:nth-of-type(221)",
+    "component_selector": "panel-ticket-span:nth-of-type(284)",
     "actual_text_content": "Files will upload immediately"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-ticket-button:nth-of-type(222)",
+    "component_selector": "panel-ticket-button:nth-of-type(285)",
     "actual_text_content": "Cancel"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-ticket-button:nth-of-type(223)",
+    "component_selector": "panel-ticket-button:nth-of-type(286)",
     "actual_text_content": "Create Ticket"
   },
   {
     "page_url": "/dashboard/tickets?newTicketPanel=open",
     "component_type": "interactive_element",
-    "component_selector": "panel-ticket-button:nth-of-type(224)",
+    "component_selector": "panel-ticket-button:nth-of-type(287)",
     "actual_text_content": "Close"
   }
 ]
