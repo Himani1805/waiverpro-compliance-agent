@@ -2,6 +2,7 @@
 import cors from 'cors';
 import dotenv from 'dotenv';
 import mongoose from 'mongoose';
+import path from 'path';
 import complianceRouter from './src/routes/complianceRoutes.js';
 
 dotenv.config();
@@ -33,6 +34,7 @@ const corsOptions = {
 app.use(cors(corsOptions));
 app.options('*', cors(corsOptions));
 app.use(express.json());
+app.use('/public', express.static(path.join(process.cwd(), 'public')));
 
 if (!MONGO_URI) {
   console.error('[ERROR] MONGO_URI is not defined in your .env file. Exiting.');

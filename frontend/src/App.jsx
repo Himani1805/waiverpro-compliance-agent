@@ -2,6 +2,14 @@
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://waiverpro-compliance-agent-36so.onrender.com';
 
+const getScreenshotUrl = (screenshotPath) => {
+  if (!screenshotPath) return null;
+  return `${API_BASE_URL}/${screenshotPath.replace(/^\/+/, '')}`;
+};
+
+const getUniqueRoutes = (items = []) => [...new Set(items.map(item => item.page_url).filter(Boolean))];
+const getUniqueScreenshots = (items = []) => [...new Set(items.map(item => item.screenshot_path).filter(Boolean))];
+
 export default function App() {
   const [loading, setLoading] = useState(false);
   const [report, setReport] = useState(null);
@@ -121,6 +129,37 @@ export default function App() {
               )}
             </section>
 
+            <section className="grid grid-cols-1 sm:grid-cols-4 gap-3">
+              {[
+                {
+                  step: 'Step 1',
+                  title: 'PDF parsed',
+                  value: report.coverage?.summary?.total_pdf_rules_analyzed ?? '-'
+                },
+                {
+                  step: 'Step 2',
+                  title: 'Views scraped',
+                  value: `${report.coverage?.summary?.total_guideline_pages_scraped ?? getUniqueRoutes(report.data).length}/${report.coverage?.summary?.total_guideline_pages_expected ?? 17}`
+                },
+                {
+                  step: 'Step 3',
+                  title: 'AI compared',
+                  value: report.summary?.total_items_checked ?? 0
+                },
+                {
+                  step: 'Step 4',
+                  title: 'Report evidence',
+                  value: `${getUniqueScreenshots(report.data).length} screenshots`
+                }
+              ].map(item => (
+                <div key={item.step} className="rounded-xl border border-slate-800 bg-slate-800/30 p-4">
+                  <span className="text-[10px] font-bold uppercase tracking-wider text-indigo-300">{item.step}</span>
+                  <p className="mt-1 text-sm font-semibold text-slate-200">{item.title}</p>
+                  <p className="mt-2 text-xl font-black text-white">{item.value}</p>
+                </div>
+              ))}
+            </section>
+
             {/* Summary cards */}
             <section className="grid grid-cols-1 sm:grid-cols-3 gap-4">
               <div className="bg-slate-800/40 border border-slate-800 rounded-xl p-5">
@@ -216,6 +255,24 @@ export default function App() {
                                     <p className="text-[10px] text-slate-500 font-mono pt-1 border-t border-slate-800/80">
                                       Source: {item.guideline_reference}
                                     </p>
+                                  )}
+                                  {item.screenshot_path && (
+                                    <a
+                                      href={getScreenshotUrl(item.screenshot_path)}
+                                      target="_blank"
+                                      rel="noreferrer"
+                                      className="block pt-2 border-t border-slate-800/80"
+                                    >
+                                      <img
+                                        src={getScreenshotUrl(item.screenshot_path)}
+                                        alt={`Screenshot for ${item.page_url}`}
+                                        className="h-24 w-full rounded border border-slate-700 object-cover object-top"
+                                        loading="lazy"
+                                      />
+                                      <span className="mt-1 block text-[10px] text-indigo-300">
+                                        Open screenshot
+                                      </span>
+                                    </a>
                                   )}
                                 </div>
                               </div>

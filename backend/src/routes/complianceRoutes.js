@@ -12,12 +12,16 @@ const router = express.Router();
 const readCachedReport = () => {
   const publicDir = path.join(process.cwd(), 'public');
   const reportPath = path.join(publicDir, 'compliance_report.json');
+  const coveragePath = path.join(publicDir, 'coverage_report.json');
 
   if (!fs.existsSync(reportPath)) {
     return null;
   }
 
   const reportItems = JSON.parse(fs.readFileSync(reportPath, 'utf-8'));
+  const coverage = fs.existsSync(coveragePath)
+    ? JSON.parse(fs.readFileSync(coveragePath, 'utf-8'))
+    : null;
   const discrepancies = reportItems.filter(item => item.discrepancy_flag === true);
 
   return {
@@ -28,6 +32,7 @@ const readCachedReport = () => {
       discrepancies_found: discrepancies.length,
       disclaimer: "Automated compliance check wrapper. This does not replace manual QA verification."
     },
+    coverage,
     data: reportItems
   };
 };
@@ -122,6 +127,7 @@ router.post('/run', async (req, res, next) => {
         discrepancies_found: activeDiscrepancies.length,
         disclaimer: "Automated compliance check wrapper. This does not replace manual QA verification."
       },
+      coverage: coverageReport,
       data: savedRecords
     });
 
